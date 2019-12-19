@@ -69,7 +69,7 @@ _:mfb-seq-01-pro device:typeTS true .
 _:mfb-seq-01-pro device:uri "http://mfberlin.de/en/seq-01-proe" .
 
 # LPZW.modules WK3 (Input/Thru; Polarity auto/switchable)
-_:lpzw-wk3 device:make "Leipzig West" .
+_:lpzw-wk3 device:make "LPZW.modules" .
 _:lpzw-wk3 device:model "WK3" .
 _:lpzw-wk3 device:eurorack true .
 _:lpzw-wk3 device:inputs 1 .
@@ -81,7 +81,7 @@ _:lpzw-wk3 device:details "“The input is auto-cross-over and each output has i
 _:lpzw-wk3 device:uri "http://leipzigwest.org/?page_id=41" .
 
 # LPZW.modules SCHLEUßIG (Input; Polarity auto)
-_:lpzw-schleußig device:make "Leipzig West" .
+_:lpzw-schleußig device:make "LPZW.modules" .
 _:lpzw-schleußig device:model "Schleußig" .
 _:lpzw-schleußig device:eurorack true .
 _:lpzw-schleußig device:inputs 1 .
@@ -91,7 +91,7 @@ _:lpzw-schleußig device:details "“The MIDI input is 3.5mm stereo TRS, with ou
 _:lpzw-schleußig device:uri "http://leipzigwest.org/?page_id=173" .
 
 # LPZW.modules TRAM8(Input; Polarity auto)
-_:lpzw-tram8 device:make "Leipzig West" .
+_:lpzw-tram8 device:make "LPZW.modules" .
 _:lpzw-tram8 device:model "Tram8" .
 _:lpzw-tram8 device:eurorack true .
 _:lpzw-tram8 device:inputs 1 .
