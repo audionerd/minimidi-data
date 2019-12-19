@@ -1,0 +1,617 @@
+@prefix device: <http://example.org/vocab/device/> .
+
+_:alm-pexp-2 device:make "ALM/Busy Circuits" .
+_:alm-pexp-2 device:model "Pexp-2: Pamela’s New Workout Expander" .
+_:alm-pexp-2 device:outputs 1 .
+_:alm-pexp-2 device:swappable true .
+_:alm-pexp-2 device:typeA true .
+_:alm-pexp-2 device:typeB true .
+_:alm-pexp-2 device:notes "Supports Type A or Type B, switchable." .
+_:alm-pexp-2 device:details "“The 3.5mm jack can be switched between differing 3.5mm MIDI configurations by reversing the jack connector on the rear of the module.”" .
+_:alm-pexp-2 device:uri "https://busycircuits.com/alm017-ex" .
+_:alm-pexp-2 device:eurorack true .
+
+_:alm-mmmidi device:make "ALM/Busy Circuits" .
+_:alm-mmmidi device:model "mmMidi" .
+_:alm-mmmidi device:inputs 1 .
+_:alm-mmmidi device:typeB true .
+_:alm-mmmidi device:uri "https://busycircuits.com/alm023" .
+_:alm-mmmidi device:eurorack true .
+
+_:faderfox-ec4 device:make "Faderfox" .
+_:faderfox-ec4 device:model "EC4" .
+_:faderfox-ec4 device:outputs 1 .
+_:faderfox-ec4 device:inputs 1 .
+_:faderfox-ec4 device:typeB true .
+_:faderfox-ec4 device:notes "With MIDI routing and merge functionality" .
+_:faderfox-ec4 device:uri "http://faderfox.de/ec4.html" .
+
+_:expertsleepers-dj-1000 device:make "Expert Sleepers" .
+_:expertsleepers-dj-1000 device:model "DJ-1000 for ES-5, ESX-8GT" .
+_:expertsleepers-dj-1000 device:typeTS true .
+_:expertsleepers-dj-1000 device:typeA false .
+_:expertsleepers-dj-1000 device:typeB false .
+_:expertsleepers-dj-1000 device:notes "Used by Expert Sleepers ES-5, ESX-8GT." .
+_:expertsleepers-dj-1000 device:details "via https://www.muffwiggler.com/forum/viewtopic.php?t=165463&start=all. See also notes here: https://www.flickr.com/photos/expertsleepers/6146324753" .
+_:expertsleepers-dj-1000 device:uri "https://www.expert-sleepers.co.uk/accessories.html" .
+
+_:16n device:make "16n" .
+_:16n device:model "16n" .
+_:16n device:typeA true .
+_:16n device:typeB true .
+_:16n device:outputs 1 .
+_:16n device:notes "“There is a switch to toggle between the two standards … so it’ll work with both Korg/Makenoise and Arturia/Novation products and converters directly”" .
+_:16n device:uri "https://16n-faderbank.github.io" .
+
+_:monome-crow device:make "Monome" .
+_:monome-crow device:model "Crow" .
+_:monome-crow device:typeA true .
+_:monome-crow device:outputs 0 .
+_:monome-crow device:inputs 1 .
+_:monome-crow device:notes "Can accept MIDI on input #1. Undocumented feature. Not compatible with all MIDI devices. Uses MMA Standard TRS MIDI." .
+_:monome-crow device:uri "https://monome.org/docs/crow" .
+_:monome-crow device:eurorack true .
+
+# MFB Nanozwerg Pro (Input; Polarity NON-TRS!!)
+_:mfb-nanozwerg-pro device:make "MFB" .
+_:mfb-nanozwerg-pro device:model "Nanozwerg Pro" .
+_:mfb-nanozwerg-pro device:eurorack true .
+_:mfb-nanozwerg-pro device:inputs 1 .
+_:mfb-nanozwerg-pro device:typeTS true .
+_:mfb-nanozwerg-pro device:uri "http://mfberlin.de/en/modules/nanozwerg_pro_e" .
+
+# MFB SEQ-1 Pro (Output; Polarity probably NON-TRS too)
+_:mfb-seq-01-pro device:make "MFB" .
+_:mfb-seq-01-pro device:model "SEQ-01 Pro" .
+_:mfb-seq-01-pro device:eurorack true .
+_:mfb-seq-01-pro device:inputs 1 .
+_:mfb-seq-01-pro device:typeTS true .
+_:mfb-seq-01-pro device:uri "http://mfberlin.de/en/seq-01-proe" .
+
+# LPZW.modules WK3 (Input/Thru; Polarity auto/switchable)
+_:lpzw-wk3 device:make "Leipzig West" .
+_:lpzw-wk3 device:model "WK3" .
+_:lpzw-wk3 device:eurorack true .
+_:lpzw-wk3 device:inputs 1 .
+_:lpzw-wk3 device:outputs 5 .
+_:lpzw-wk3 device:thrus 5 .
+_:lpzw-wk3 device:typeA true .
+_:lpzw-wk3 device:typeB true .
+_:lpzw-wk3 device:details "“The input is auto-cross-over and each output has its own switch to swap tip and ring position of data and +5V”" .
+_:lpzw-wk3 device:uri "http://leipzigwest.org/?page_id=41" .
+
+# LPZW.modules SCHLEUßIG (Input; Polarity auto)
+_:lpzw-schleußig device:make "Leipzig West" .
+_:lpzw-schleußig device:model "Schleußig" .
+_:lpzw-schleußig device:eurorack true .
+_:lpzw-schleußig device:inputs 1 .
+_:lpzw-schleußig device:typeA true .
+_:lpzw-schleußig device:typeB true .
+_:lpzw-schleußig device:details "“The MIDI input is 3.5mm stereo TRS, with our own invented auto-crossover (directly connect either Korg-like OR Arturia-like 3.5mm MIDI out with a cheap standard cable).”" .
+_:lpzw-schleußig device:uri "http://leipzigwest.org/?page_id=173" .
+
+# LPZW.modules TRAM8(Input; Polarity auto)
+_:lpzw-tram8 device:make "Leipzig West" .
+_:lpzw-tram8 device:model "Tram8" .
+_:lpzw-tram8 device:eurorack true .
+_:lpzw-tram8 device:inputs 1 .
+_:lpzw-tram8 device:typeA true .
+_:lpzw-tram8 device:typeB true .
+_:lpzw-tram8 device:notes "“3.5mm auto crossover TRS MIDI Input. (type A or type B outputs without adapter)”" .
+_:lpzw-tram8 device:details "“Internal MIDI Thru for daisy chaining multiple Tram8s”" .
+_:lpzw-tram8 device:uri "http://leipzigwest.org/?page_id=242" .
+
+# Erica Synths Drum Sequencer (Input; unknown)
+_:erica-drum-sequencer device:make "Erica Synths" .
+_:erica-drum-sequencer device:model "Drum Sequencer" .
+_:erica-drum-sequencer device:eurorack true .
+_:erica-drum-sequencer device:inputs 1 .
+_:erica-drum-sequencer device:typeB true .
+_:erica-drum-sequencer device:uri "https://www.ericasynths.lv/shop/eurorack-modules/by-series/drum-series/drum-sequencer" .
+
+
+# Five12 Vector (I/O; unknown)
+# confirmed via email
+_:five12-vector-sequencer device:make "Five12" .
+_:five12-vector-sequencer device:model "Vector Sequencer" .
+_:five12-vector-sequencer device:inputs 1 .
+_:five12-vector-sequencer device:outputs 1 .
+_:five12-vector-sequencer device:eurorack true .
+_:five12-vector-sequencer device:typeB true .
+_:five12-vector-sequencer device:uri "http://www.five12.com" .
+
+# SDS Digital WifiMidi (Output; Korg-ish)
+_:sds-digital-wifimidi device:make "SDS Digital" .
+_:sds-digital-wifimidi device:model "WiFiMIDI" .
+_:sds-digital-wifimidi device:outputs 1 .
+_:sds-digital-wifimidi device:eurorack true .
+_:sds-digital-wifimidi device:typeA true .
+_:sds-digital-wifimidi device:uri "http://www.freshnelly.com/WiFiMIDI/WiFiMIDI.htm" .
+
+# SDS SDS_VCO (Input behind panel; User configurable))
+_:sds-digital-sds-vco device:make "SDS Digital" .
+_:sds-digital-sds-vco device:model "SDS_VCO" .
+_:sds-digital-sds-vco device:outputs 1 .
+_:sds-digital-sds-vco device:eurorack true .
+_:sds-digital-sds-vco device:typeA true .
+_:sds-digital-sds-vco device:typeB true .
+_:sds-digital-sds-vco device:notes "optional MIDI expansion card" .
+_:sds-digital-sds-vco device:details "“This small add-on board will allow MIDI notes to be sent to your favorite MIDI compatible receiver, effectively turning your SDS_VCO into a CV/T/G to MIDI converter.”" .
+_:sds-digital-sds-vco device:uri "http://www.freshnelly.com/sdsvco/sdsvcoMIDI.htm" .
+
+# SDS Reflex LiveLoop (Input behind panel; user switchable)
+_:sds-digital-reflex-liveloop device:make "SDS Digital" .
+_:sds-digital-reflex-liveloop device:model "Reflex LiveLoop" .
+_:sds-digital-reflex-liveloop device:inputs 1 .
+_:sds-digital-reflex-liveloop device:eurorack true .
+_:sds-digital-reflex-liveloop device:typeA true .
+_:sds-digital-reflex-liveloop device:typeB true .
+_:sds-digital-reflex-liveloop device:notes "MIDI input available via Flash-8 expansion" .
+_:sds-digital-reflex-liveloop device:details "“The jumpers (J2) on the board are turned 90 degrees to configure for either polarity.”" .
+_:sds-digital-reflex-liveloop device:uri "http://www.freshnelly.com/reflex/reflexhtml.htm" .
+
+# SSF Bantam (Input; unknown)
+# Soulsby AT-Arp (Input; unknown)
+
+# Malekko SYNC (I/O/Thru; Arturia)
+_:malekko-sync device:make "Malekko" .
+_:malekko-sync device:model "SYNC" .
+_:malekko-sync device:eurorack true .
+_:malekko-sync device:inputs 1 .
+_:malekko-sync device:outputs 1 .
+_:malekko-sync device:thrus 1 .
+_:malekko-sync device:typeB true .
+_:malekko-sync device:uri "https://malekkoheavyindustry.com/product/sync" .
+
+
+# 1010 Music MX4 (Input/Thru; polarity Arturia)
+_:1010music-mx4 device:make "1010music" .
+_:1010music-mx4 device:model "MX4" .
+_:1010music-mx4 device:eurorack true .
+_:1010music-mx4 device:inputs 1 .
+_:1010music-mx4 device:outputs 4 .
+_:1010music-mx4 device:typeB true .
+_:1010music-mx4 device:notes "Buffered MIDI Multiple" .
+_:1010music-mx4 device:uri "https://1010music.com/product/mx4" .
+
+# 1010 Music fxbox/bitbox (Input; polarity Arturia)
+_:1010music-fxbox device:make "1010music" .
+_:1010music-fxbox device:model "Fxbox" .
+_:1010music-fxbox device:eurorack true .
+_:1010music-fxbox device:inputs 1 .
+_:1010music-fxbox device:typeB true .
+_:1010music-fxbox device:notes "Performance Effects" .
+_:1010music-fxbox device:uri "https://1010music.com/product/fxbox-performance-effects-module" .
+
+_:1010music-bitbox device:make "1010music" .
+_:1010music-bitbox device:model "Bitbox" .
+_:1010music-bitbox device:eurorack true .
+_:1010music-bitbox device:inputs 1 .
+_:1010music-bitbox device:typeB true .
+_:1010music-bitbox device:notes "Touchscreen Sampler" .
+_:1010music-bitbox device:uri "https://1010music.com/product/bitbox-eurorack-module-with-touchscreen" .
+
+# 1010 Music Toolbox (I/O; polarity Arturia)
+_:1010music-toolbox device:make "1010music" .
+_:1010music-toolbox device:model "Toolbox" .
+_:1010music-toolbox device:eurorack true .
+_:1010music-toolbox device:inputs 1 .
+_:1010music-toolbox device:outputs 4 .
+_:1010music-toolbox device:typeB true .
+_:1010music-toolbox device:notes "Sequencer and Function Generator" .
+_:1010music-toolbox device:uri "https://1010music.com/product/toolbox-sequencer-function-generator-eurorack-module" .
+
+# 1010 Music MOK Waverazor (In; polarity Arturia)
+_:1010music-waverazor device:make "1010music" .
+_:1010music-waverazor device:model "Waverazor Dual Oscillator" .
+_:1010music-waverazor device:inputs 1 .
+_:1010music-waverazor device:typeB true .
+_:1010music-waverazor device:uri "https://1010music.com/product/waverazor-dual-oscillator-module" .
+
+_:1010music-blackbox device:make "1010music" .
+_:1010music-blackbox device:model "Blackbox" .
+_:1010music-blackbox device:inputs 1 .
+_:1010music-blackbox device:outputs 1 .
+_:1010music-blackbox device:typeB true .
+_:1010music-blackbox device:notes "Compact Sampling Studio" .
+_:1010music-blackbox device:uri "https://1010music.com/product/blackbox" .
+
+_:1010music-synthbox device:make "1010music" .
+_:1010music-synthbox device:model "Synthbox" .
+_:1010music-synthbox device:inputs 1 .
+_:1010music-synthbox device:typeB true .
+_:1010music-synthbox device:notes "Polyphonic Synthesizer" .
+_:1010music-synthbox device:uri "https://1010music.com/product/synthbox-polyphonic-synthesizer-module" .
+
+_:1010music-laserbox device:make "1010music" .
+_:1010music-laserbox device:model "Laserbox" .
+_:1010music-laserbox device:eurorack true .
+_:1010music-laserbox device:inputs 1 .
+_:1010music-laserbox device:outputs 4 .
+_:1010music-laserbox device:typeB true .
+_:1010music-laserbox device:notes "Pattern Generator for Lasers" .
+_:1010music-laserbox device:uri "https://1010music.com/product/laserbox-pattern-generator-for-lasers" .
+
+_:1010music-euroshield1 device:make "1010music" .
+_:1010music-euroshield1 device:model "euroshield 1" .
+_:1010music-euroshield1 device:eurorack true .
+_:1010music-euroshield1 device:inputs 1 .
+_:1010music-euroshield1 device:outputs 1 .
+_:1010music-euroshield1 device:typeB true .
+_:1010music-euroshield1 device:notes "Synthesizer and Effects Development Board" .
+_:1010music-euroshield1 device:uri "https://1010music.com/product/euroshield1" .
+
+# ADDAC System ADDAC221 (I/O; Polarity Korg)
+# per muffwiggler thread. could not find confirmation of type on the addac systems site.
+_:addac-addac221 device:make "ADDAC" .
+_:addac-addac221 device:model "ADDAC221" .
+_:addac-addac221 device:eurorack true .
+_:addac-addac221 device:inputs 1 .
+_:addac-addac221 device:outputs 1 .
+_:addac-addac221 device:typeA true .
+_:addac-addac221 device:notes "10x9 Channel CV to CC MIDI System" .
+_:addac-addac221 device:uri "http://www.addacsystem.com/en/products/modules/addac200-series/addac221" .
+
+# ADDAC System ADDAC222 (I/O; Polarity Korg)
+# per muffwiggler thread. could not find confirmation of type on the addac systems site.
+_:addac-addac222 device:make "ADDAC" .
+_:addac-addac222 device:model "ADDAC222" .
+_:addac-addac222 device:eurorack true .
+_:addac-addac222 device:inputs 1 .
+_:addac-addac222 device:outputs 1 .
+_:addac-addac222 device:typeA true .
+_:addac-addac222 device:notes "4x6 Voices 1V/Octave to MIDI Notes" .
+_:addac-addac222 device:uri "http://www.addacsystem.com/en/products/modules/addac200-series/addac222" .
+
+# Pittsburgh Modular Liveforms SV-1 (Input; Arturia)
+# per muffwiggler thread, couldn't find confirmation on the pittsburgh modular site
+_:pittsburgh-modular-liveforms-sv-1 device:make "Pittsburgh Modular" .
+_:pittsburgh-modular-liveforms-sv-1 device:model "Liveforms SV-1" .
+_:pittsburgh-modular-liveforms-sv-1 device:eurorack true .
+_:pittsburgh-modular-liveforms-sv-1 device:inputs 1 .
+_:pittsburgh-modular-liveforms-sv-1 device:typeB true .
+_:pittsburgh-modular-liveforms-sv-1 device:uri "https://pittsburghmodular.com/lifeforms-sv-1" .
+
+# Entrospec iungo (I/O; Polarity Korg - 2.5mm jacks!!! why, oh why? )
+_:entrospec-iungo device:make "Entrospec" .
+_:entrospec-iungo device:model "Iungo" .
+_:entrospec-iungo device:eurorack true .
+_:entrospec-iungo device:inputs 1 .
+_:entrospec-iungo device:outputs 1 .
+_:entrospec-iungo device:typeA true .
+_:entrospec-iungo device:notes "“MIDI input and output via 2.5mm stereo jack to 5 pin DIN cables”" .
+_:entrospec-iungo device:uri "http://entrospec.co.uk" .
+
+# Flame Quad-CV-Recorder (Input; Arturia)
+_:flame-quad-cv-recorder device:make "Flame" .
+_:flame-quad-cv-recorder device:model "Quad CV Recorder" .
+_:flame-quad-cv-recorder device:eurorack true .
+_:flame-quad-cv-recorder device:inputs 1 .
+_:flame-quad-cv-recorder device:typeB true .
+_:flame-quad-cv-recorder device:uri "http://flame.fortschritt-musik.de/flame2/instruments_modular.html" .
+
+# Flame 4Vox new version (Input; Arturia)
+
+# Flame Filterbank (Input; Arturia)
+_:flame-curves device:make "Flame" .
+_:flame-curves device:model "Curves" .
+_:flame-curves device:eurorack true .
+_:flame-curves device:inputs 1 .
+_:flame-curves device:typeB true .
+_:flame-curves device:notes "12 band analog filter bank & sequencer" .
+_:flame-curves device:uri "http://flame.fortschritt-musik.de/flame2/instruments_modular.html" .
+
+# Pittsburgh Modular Lifeforms Voltage Lab(Input; ?)
+# Pittsburgh Modular Sequence Designer 128 (I/O; Arturia)
+
+# Zetaohm FLXS1 (I/O; Korg)
+_:zetaohm-flxs1 device:make "Zetaohm" .
+_:zetaohm-flxs1 device:model "FLXS1" .
+_:zetaohm-flxs1 device:eurorack true .
+_:zetaohm-flxs1 device:inputs 1 .
+_:zetaohm-flxs1 device:outputs 1 .
+_:zetaohm-flxs1 device:typeA true .
+_:zetaohm-flxs1 device:notes "Fluxus One Voltage Sequencer" .
+_:zetaohm-flxs1 device:uri "https://www.zetaohm.com" .
+
+# VPME.de trig31 (Out Arturia)
+_:vpme-trig31 device:make "vpme.de" .
+_:vpme-trig31 device:model "trig31" .
+_:vpme-trig31 device:eurorack true .
+_:vpme-trig31 device:inputs 1 .
+_:vpme-trig31 device:typeB true .
+_:vpme-trig31 device:uri "https://vpme.de/trig31" .
+
+# Dreadbox Lil' Erebus (In, Korg?)
+_:dreadbox-lil-erebus device:make "Dreadbox" .
+_:dreadbox-lil-erebus device:model "Lil’ Erebus" .
+_:dreadbox-lil-erebus device:eurorack true .
+_:dreadbox-lil-erebus device:inputs 1 .
+_:dreadbox-lil-erebus device:typeA true .
+_:dreadbox-lil-erebus device:uri "https://www.dreadbox-fx.com/lil-erebus" .
+
+# - Analog Solutions Treadstone(In, unknown)
+# Analog Solutions Treadstone Eurorack (In, unknown)
+_:analogue-solutions-treadstone device:make "Analogue Solutions" .
+_:analogue-solutions-treadstone device:model "Treadstone" .
+_:analogue-solutions-treadstone device:inputs 1 .
+_:analogue-solutions-treadstone device:typeB true .
+_:analogue-solutions-treadstone device:notes "Available as both a Eurorack module and a desktop device" .
+_:analogue-solutions-treadstone device:uri "https://www.analoguesolutions.com/treadstone-synthblock" .
+
+# mxmxmx C2M (In/Out user configurable)
+_:mxmxmx-c2m device:make "mxmxmx" .
+_:mxmxmx-c2m device:model "C2M" .
+_:mxmxmx-c2m device:eurorack true .
+_:mxmxmx-c2m device:inputs 1 .
+_:mxmxmx-c2m device:outputs 1 .
+_:mxmxmx-c2m device:typeA true .
+_:mxmxmx-c2m device:typeB true .
+_:mxmxmx-c2m device:details "“midi TRS in/out (type A/B selectable)”" .
+_:mxmxmx-c2m device:uri "https://github.com/mxmxmx/CV2Midi" .
+
+# Michigan Synthworks MBrane (MI YARNS) (I/O unknown)
+_:michigan-synth-works-mbrane device:make "Michigan Synth Works" .
+_:michigan-synth-works-mbrane device:model "mBrane" .
+_:michigan-synth-works-mbrane device:eurorack true .
+_:michigan-synth-works-mbrane device:inputs 1 .
+_:michigan-synth-works-mbrane device:outputs 1 .
+_:michigan-synth-works-mbrane device:typeA true .
+_:michigan-synth-works-mbrane device:typeB true .
+_:michigan-synth-works-mbrane device:notes "Type B cable is shipped with the device" .
+_:michigan-synth-works-mbrane device:details "“Rev1.1 of the device … features PSImidi which allows ANY type of TRS MIDI cable to be used on the input.”" .
+_:michigan-synth-works-mbrane device:uri "https://michigansynthworks.com/collections/euromodules-test/products/mbrane-6hp-yarns" .
+
+# Shakmat Modular Clock O' Pawn (In: unkown)
+_:shakmat-modular-clock-o-pawn device:make "Shakmat Modular" .
+_:shakmat-modular-clock-o-pawn device:model "Clock O’Pawn" .
+_:shakmat-modular-clock-o-pawn device:eurorack true .
+_:shakmat-modular-clock-o-pawn device:inputs 1 .
+_:shakmat-modular-clock-o-pawn device:typeA true .
+_:shakmat-modular-clock-o-pawn device:typeB true .
+_:shakmat-modular-clock-o-pawn device:notes "Two jumpers on the back of the module select Type A or Type B" .
+# Placing them horizontally sets the module to TRS MIDI A standard, and vertically to TRS MIDI B.
+_:shakmat-modular-clock-o-pawn device:uri "http://www.shakmatmodular.com/products/cop.html" .
+
+# Futureretro MIDI BUS expander for Trax! (I/O Arturia)
+_:future-retro-midi-bus device:make "Future Retro" .
+_:future-retro-midi-bus device:model "MIDI BUS" .
+_:future-retro-midi-bus device:eurorack true .
+_:future-retro-midi-bus device:inputs 1 .
+_:future-retro-midi-bus device:outputs 1 .
+_:future-retro-midi-bus device:thrus 1 .
+_:future-retro-midi-bus device:typeB true .
+_:future-retro-midi-bus device:notes "MIDI expander for TRAX" .
+_:future-retro-midi-bus device:uri "http://www.future-retro.com/products.html#!/MIDI-BUS/p/136062355" .
+
+# Supercritical Synthesizers Demon Core Expander (i/o auto-crossover in & user selectable out)
+_:supercritical-synthesizers-demon-core-expander device:make "Supercritical Synthesizers" .
+_:supercritical-synthesizers-demon-core-expander device:model "Demon Core Expander" .
+_:supercritical-synthesizers-demon-core-expander device:eurorack true .
+_:supercritical-synthesizers-demon-core-expander device:inputs 1 .
+_:supercritical-synthesizers-demon-core-expander device:thrus 1 .
+_:supercritical-synthesizers-demon-core-expander device:typeA true .
+_:supercritical-synthesizers-demon-core-expander device:typeB true .
+_:supercritical-synthesizers-demon-core-expander device:details "i/o auto-crossover in & user selectable out" .
+_:supercritical-synthesizers-demon-core-expander device:uri "http://supercriticalsynthesizers.com/demon-core-expander" .
+
+# Westlicht Per|former (i/o polarity Korg)
+_:westlicht-performer device:make "Westlicht" .
+_:westlicht-performer device:model "PER|FORMER" .
+_:westlicht-performer device:eurorack true .
+_:westlicht-performer device:inputs 1 .
+_:westlicht-performer device:outputs 1 .
+_:westlicht-performer device:typeA true .
+_:westlicht-performer device:uri "https://westlicht.github.io/performer" .
+
+# XOXO MIDIXO (Model 92½) (i/o polarity configurable)
+_:xoxo-midixo device:make "XOXO Modular" .
+_:xoxo-midixo device:model "MIDIXO" .
+_:xoxo-midixo device:inputs 1 .
+_:xoxo-midixo device:outputs 1 .
+_:xoxo-midixo device:typeA true .
+_:xoxo-midixo device:typeB true .
+_:xoxo-midixo device:eurorack true .
+_:xoxo-midixo device:notes "Model 92½" .
+_:xoxo-midixo device:details "Configurable via jumpers" .
+_:xoxo-midixo device:uri "http://xoxomodular.com/midixo.html" .
+
+# Polyend Poly 2 (i/o polarity Arturia)
+_:polyend-poly-2 device:make "Polyend" .
+_:polyend-poly-2 device:model "Poly 2" .
+_:polyend-poly-2 device:inputs 1 .
+_:polyend-poly-2 device:outputs 1 .
+_:polyend-poly-2 device:thrus 1 .
+_:polyend-poly-2 device:typeB true .
+_:polyend-poly-2 device:eurorack true .
+_:polyend-poly-2 device:uri "http://polyend.com/poly2-midi-to-cv-converter" .
+
+# Intellijel Palette 4.5U Cases (i/o polarity ?)
+_:intellijel-palette device:make "Intellijel" .
+_:intellijel-palette device:model "Palette" .
+_:intellijel-palette device:inputs 1 .
+_:intellijel-palette device:outputs 1 .
+_:intellijel-palette device:typeA true .
+_:intellijel-palette device:notes "Can be connected to µMIDI 1U" .
+_:intellijel-palette device:uri "https://intellijel.com/shop/cases/4u-palette-eurorack-case" .
+
+# Non Modular:
+# - Make Noise 0-Coast (In; Polarity Korg)
+_:makenoise-0-coast device:make "Make Noise" .
+_:makenoise-0-coast device:model "0-Coast" .
+_:makenoise-0-coast device:inputs 1 .
+_:makenoise-0-coast device:typeA true .
+_:makenoise-0-coast device:uri "http://www.makenoisemusic.com/synthesizers/ohcoast" .
+
+# - Korg Electribe 2/Sampler (I/O; Polarity Korg)
+_:korg-electribe-sampler device:make "Korg" .
+_:korg-electribe-sampler device:model "Electribe Sampler" .
+_:korg-electribe-sampler device:inputs 1 .
+_:korg-electribe-sampler device:outputs 1 .
+_:korg-electribe-sampler device:typeA true .
+_:korg-electribe-sampler device:uri "https://www.korg.com/us/products/dj/electribe_sampler" .
+
+# - Korg SQ-1 (Out; Polarity Korg)
+_:korg-sq-1 device:make "Korg" .
+_:korg-sq-1 device:model "SQ-1" .
+_:korg-sq-1 device:outputs 1 .
+_:korg-sq-1 device:typeA true .
+_:korg-sq-1 device:uri "https://www.korg.com/us/products/dj/sq_1" .
+
+# - Arturia Beatstep (Out) & BS Pro (I/O; Polarity Arturia)
+_:arturia-beatstep device:make "Arturia" .
+_:arturia-beatstep device:model "Beatstep" .
+_:arturia-beatstep device:outputs 1 .
+_:arturia-beatstep device:typeTS true .
+_:arturia-beatstep device:uri "https://www.arturia.com/beatstep/overview" .
+
+_:arturia-beatstep-pro device:make "Arturia" .
+_:arturia-beatstep-pro device:model "Beatstep Pro" .
+_:arturia-beatstep-pro device:inputs 1 .
+_:arturia-beatstep-pro device:outputs 1 .
+_:arturia-beatstep-pro device:typeB true .
+_:arturia-beatstep-pro device:uri "https://www.arturia.com/products/hybrid-synths/beatstep-pro/overview" .
+
+# - Novation Launchpad Pro (I/O; Polarity Arturia?)
+_:novation-launchpad-pro device:make "Novation" .
+_:novation-launchpad-pro device:model "Launchpad Pro" .
+_:novation-launchpad-pro device:inputs 1 .
+_:novation-launchpad-pro device:outputs 1 .
+_:novation-launchpad-pro device:typeB true .
+_:novation-launchpad-pro device:uri "https://novationmusic.com/launch/launchpad-pro" .
+
+# - Novation Circuit (I/O; Polarity Arturia?)
+_:novation-circuit device:make "Novation" .
+_:novation-circuit device:model "Circuit" .
+_:novation-circuit device:inputs 1 .
+_:novation-circuit device:outputs 1 .
+_:novation-circuit device:typeB true .
+_:novation-circuit device:uri "https://novationmusic.com/circuit/circuit" .
+
+# - Novation Circuit Mono Station (I/O & Thru; Polarity Arturia?)
+_:novation-circuit-mono-station device:make "Novation" .
+_:novation-circuit-mono-station device:model "Circuit Mono Station" .
+_:novation-circuit-mono-station device:inputs 1 .
+_:novation-circuit-mono-station device:outputs 1 .
+_:novation-circuit-mono-station device:thrus 1 .
+_:novation-circuit-mono-station device:typeB true .
+_:novation-circuit-mono-station device:uri "https://novationmusic.com/circuit/circuit-mono-station" .
+
+# - Faderfox SC4 (I/O; Arturia?)
+_:faderfox-sc4 device:make "Faderfox" .
+_:faderfox-sc4 device:model "SC4" .
+_:faderfox-sc4 device:inputs 1 .
+_:faderfox-sc4 device:outputs 1 .
+_:faderfox-sc4 device:typeB true .
+_:faderfox-sc4 device:uri "http://www.faderfox.de/sc4.html" .
+
+# - Twisted Electrons Acid8 (I/O unknown)
+_:twisted-electrons-acid8-mkiii device:make "Twisted Electrons" .
+_:twisted-electrons-acid8-mkiii device:model "Acid8 MKIII" .
+_:twisted-electrons-acid8-mkiii device:inputs 1 .
+_:twisted-electrons-acid8-mkiii device:typeA true .
+_:twisted-electrons-acid8-mkiii device:uri "https://twisted-electrons.com/product/acid8-mkiii" .
+
+# - Twisted Electrons AY3 (Input unknown)
+_:twisted-electrons-ay3 device:make "Twisted Electrons" .
+_:twisted-electrons-ay3 device:model "AY3" .
+_:twisted-electrons-ay3 device:inputs 1 .
+_:twisted-electrons-ay3 device:typeA true .
+_:twisted-electrons-ay3 device:notes "Available as both a Eurorack module and a desktop device" .
+_:twisted-electrons-ay3 device:uri "https://twisted-electrons.com/product/ay3" .
+
+# - Twisted Electrons Crazy8 (I/O unknown)
+_:twisted-electrons-crazy8 device:make "Twisted Electrons" .
+_:twisted-electrons-crazy8 device:model "Crazy8" .
+_:twisted-electrons-crazy8 device:inputs 1 .
+_:twisted-electrons-crazy8 device:outputs 2 .
+_:twisted-electrons-crazy8 device:typeA true .
+_:twisted-electrons-crazy8 device:uri "https://twisted-electrons.com/product/crazy8" .
+
+# - Twisted Electrons Crazy8 Beats (i/o unknown) - also standalone
+_:twisted-electrons-crazy8-beats device:make "Twisted Electrons" .
+_:twisted-electrons-crazy8-beats device:model "Crazy8 Beats" .
+_:twisted-electrons-crazy8-beats device:inputs 1 .
+_:twisted-electrons-crazy8-beats device:outputs 2 .
+_:twisted-electrons-crazy8-beats device:typeA true .
+_:twisted-electrons-crazy8-beats device:notes "Available as both a Eurorack module and a desktop device" .
+_:twisted-electrons-crazy8-beats device:uri "https://twisted-electrons.com/product/crazy8beats" .
+
+# - Twisted Electrons hapiNes(In: unknown)
+_:twisted-electrons-hapines device:make "Twisted Electrons" .
+_:twisted-electrons-hapines device:model "hapiNES L" .
+_:twisted-electrons-hapines device:inputs 1 .
+_:twisted-electrons-hapines device:typeA true .
+_:twisted-electrons-hapines device:uri "https://twisted-electrons.com/product/hapines-l" .
+
+# - Twisted Electrons TherapSid MkII(I/O: unknown)
+_:twisted-electrons-therapsid-mkii device:make "Twisted Electrons" .
+_:twisted-electrons-therapsid-mkii device:model "TherapSid MKII" .
+_:twisted-electrons-therapsid-mkii device:inputs 1 .
+_:twisted-electrons-therapsid-mkii device:outputs 1 .
+_:twisted-electrons-therapsid-mkii device:typeA true .
+_:twisted-electrons-therapsid-mkii device:uri "https://twisted-electrons.com/product/therapsid" .
+
+# - IK Multimedia Uno (I/O unknown)
+# - IK Multimedia UnoDrum (I/O, unknown)
+
+# - Teenage Engineering OP-Z with oplab (I/O; polarity Korg??)
+# docs say it uses "the standard midi 3.5 mm connector pinout", but it actually uses Type B, not the midi.org MMA standard
+# https://teenage.engineering/guides/op-z/modules/oplab
+_:teenage-engineering-op-z device:make "Teenage Engineering" .
+_:teenage-engineering-op-z device:model "OP-Z" .
+_:teenage-engineering-op-z device:inputs 1 .
+_:teenage-engineering-op-z device:outputs 1 .
+_:teenage-engineering-op-z device:typeB true .
+_:teenage-engineering-op-z device:uri "https://teenage.engineering/products/op-z/modules/oplab" .
+
+# - Teenage Engineering Pocket Modular 16 (Output: polarity Korg)
+_:teenage-engineering-pocketmodular-16 device:make "Teenage Engineering" .
+_:teenage-engineering-pocketmodular-16 device:model "Pocket Modular 16" .
+_:teenage-engineering-pocketmodular-16 device:outputs 1 .
+_:teenage-engineering-pocketmodular-16 device:typeA true .
+_:teenage-engineering-pocketmodular-16 device:notes "See the guide: https://teenage.engineering/guides/po-modular/16" .
+_:teenage-engineering-pocketmodular-16 device:uri "https://teenage.engineering/products/po/modular" .
+
+# - Elektron Model:Samples (I/O polarity ?)
+# configurable, but unclear which is default
+_:elektron-model-samples device:make "Elektron" .
+_:elektron-model-samples device:model "Model:Samples" .
+_:elektron-model-samples device:inputs 1 .
+_:elektron-model-samples device:outputs 1 .
+_:elektron-model-samples device:thrus 1 .
+_:elektron-model-samples device:typeA true .
+_:elektron-model-samples device:typeB true .
+_:elektron-model-samples device:notes "Configurable, see: https://www.elektronauts.com/t/elektron-3-5mmtrs-din-midi-adapters/81634/14" .
+_:elektron-model-samples device:uri "https://www.elektron.se/products/modelsamples" .
+
+# - Critter And Guitari Organelle mk2 (I/O polarity Arturia)
+# from the adapter cable description:
+# > This adapter cable is TRS-MIDI Type A as set by the MIDI Manufacturers Association. Type A is the adopted standard of the MMA.
+# link to manual:
+# https://www.critterandguitari.com/manual?m=Organelle_M_Manual
+_:critter-and-guitari-organelle-m device:make "Critter & Guitari" .
+_:critter-and-guitari-organelle-m device:model "Organelle M" .
+_:critter-and-guitari-organelle-m device:inputs 1 .
+_:critter-and-guitari-organelle-m device:outputs 1 .
+_:critter-and-guitari-organelle-m device:typeA true .
+_:critter-and-guitari-organelle-m device:notes "TRS MIDI I/O was added for the second-generation Organelle, the one with a built-in speaker" .
+_:critter-and-guitari-organelle-m device:uri "https://www.critterandguitari.com/organelle" .
+
+# - Empress Effects Zoia (I/O polarity ?)
+# - M-Audio Air Interface Series (I/O Type ?)
+
+_:akai-force device:make "Akai" .
+_:akai-force device:model "Force" .
+_:akai-force device:inputs 1 .
+_:akai-force device:outputs 1 .
+_:akai-force device:thrus 1 .
+_:akai-force device:typeA true .
+_:akai-force device:uri "https://www.akaipro.com/force-forcexus" .
+
+_:akai-mpc-touch device:make "Akai" .
+_:akai-mpc-touch device:model "MPC Touch" .
+_:akai-mpc-touch device:inputs 1 .
+_:akai-mpc-touch device:outputs 1 .
+_:akai-mpc-touch device:typeA true .
+_:akai-mpc-touch device:uri "https://www.akaipro.com/mpc-touch" .
