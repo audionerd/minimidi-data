@@ -615,3 +615,21 @@ _:akai-mpc-touch device:inputs 1 .
 _:akai-mpc-touch device:outputs 1 .
 _:akai-mpc-touch device:typeA true .
 _:akai-mpc-touch device:uri "https://www.akaipro.com/mpc-touch" .
+
+_:jakplugg-threshold device:make "Jakplugg" .
+_:jakplugg-threshold device:model "Threshold" .
+_:jakplugg-threshold device:inputs 1 .
+_:jakplugg-threshold device:typeA true .
+_:jakplugg-threshold device:typeB true .
+_:jakplugg-threshold device:notes "The MIDI 3.5 mm jack can take either polarity MIDI input cable." .
+_:jakplugg-threshold device:details "Variation on the open source Mutable Instruments Edges with MIDI expander built-in" .
+_:jakplugg-threshold device:uri "https://github.com/jakplugg/Threshold" .
+
+_:michigan-synth-works-threshold device:make "Michigan Synth Works " .
+_:michigan-synth-works-threshold device:model "Threshold" .
+_:michigan-synth-works-threshold device:inputs 1 .
+_:michigan-synth-works-threshold device:typeA true .
+_:michigan-synth-works-threshold device:typeB true .
+_:michigan-synth-works-threshold device:notes "“PSImidi … allows any TRS midi cable to be used.”" .
+_:michigan-synth-works-threshold device:details "10HP Edges Clone with integrated midi interface" .
+_:michigan-synth-works-threshold device:uri "https://michigansynthworks.com/collections/euromodules-test/products/threshold-10hp-edges-with-integrated-midi-expander" .
