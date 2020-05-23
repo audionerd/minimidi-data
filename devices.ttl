@@ -556,13 +556,15 @@ _:twisted-electrons-therapsid-mkii device:uri "https://twisted-electrons.com/pro
 # - IK Multimedia UnoDrum (I/O, unknown)
 
 # - Teenage Engineering OP-Z with oplab (I/O; polarity Korg??)
-# docs say it uses "the standard midi 3.5 mm connector pinout", but it actually uses Type B, not the midi.org MMA standard
+# the documentation says “the input uses the standard type a midi 3.5 mm connector pinout”
+# but then says “(tip = source, ring = sink)”, which is type b
+# confimed with a user of the device that it is type A
 # https://teenage.engineering/guides/op-z/modules/oplab
 _:teenage-engineering-op-z device:make "Teenage Engineering" .
-_:teenage-engineering-op-z device:model "OP-Z" .
+_:teenage-engineering-op-z device:model "OP-Z with oplab" .
 _:teenage-engineering-op-z device:inputs 1 .
 _:teenage-engineering-op-z device:outputs 1 .
-_:teenage-engineering-op-z device:typeB true .
+_:teenage-engineering-op-z device:typeA true .
 _:teenage-engineering-op-z device:uri "https://teenage.engineering/products/op-z/modules/oplab" .
 
 # - Teenage Engineering Pocket Modular 16 (Output: polarity Korg)
