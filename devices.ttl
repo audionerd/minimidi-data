@@ -633,3 +633,11 @@ _:michigan-synth-works-threshold device:typeB true .
 _:michigan-synth-works-threshold device:notes "“PSImidi … allows any TRS midi cable to be used.”" .
 _:michigan-synth-works-threshold device:details "10HP Edges Clone with integrated midi interface" .
 _:michigan-synth-works-threshold device:uri "https://michigansynthworks.com/collections/euromodules-test/products/threshold-10hp-edges-with-integrated-midi-expander" .
+
+_:flame-qmcv device:make "Flame" .
+_:flame-qmcv device:model "µQMCV" .
+_:flame-qmcv device:eurorack true .
+_:flame-qmcv device:inputs 1 .
+_:flame-qmcv device:thrus 1 .
+_:flame-qmcv device:typeB true .
+_:flame-qmcv device:uri "http://flame.fortschritt-musik.de/flame2/instruments_modular.html" .
