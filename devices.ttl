@@ -643,3 +643,10 @@ _:flame-qmcv device:inputs 1 .
 _:flame-qmcv device:thrus 1 .
 _:flame-qmcv device:typeB true .
 _:flame-qmcv device:uri "http://flame.fortschritt-musik.de/flame2/instruments_modular.html" .
+
+_:boss-rc-10r device:make "BOSS" .
+_:boss-rc-10r device:model "RC-10R" .
+_:boss-rc-10r device:inputs 1 .
+_:boss-rc-10r device:outputs 1 .
+_:boss-rc-10r device:typeA true .
+_:boss-rc-10r device:uri "https://www.boss.info/global/products/rc-10r" .
