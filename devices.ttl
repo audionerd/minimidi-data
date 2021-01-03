@@ -601,6 +601,12 @@ _:critter-and-guitari-organelle-m device:notes "TRS MIDI I/O was added for the s
 _:critter-and-guitari-organelle-m device:uri "https://www.critterandguitari.com/organelle" .
 
 # - Empress Effects Zoia (I/O polarity ?)
+_:empress-zoia device:make "Empress" .
+_:empress-zoia device:model "Zoia" .
+_:empress-zoia device:inputs 1 .
+_:empress-zoia device:outputs 1 .
+_:empress-zoia device:typeA true .
+_:empress-zoia device:uri "https://empresseffects.com/products/zoia" .
 
 # - M-Audio Air Interface Series (I/O Type ?)
 _:maudio-air device:make "M-Audio" .
