@@ -670,3 +670,12 @@ _:retrokits-RK-006 device:inputs 2 .
 _:retrokits-RK-006 device:outputs 10 .
 _:retrokits-RK-006 device:typeA true .
 _:retrokits-RK-006 device:uri "https://www.retrokits.com/shop/rk006" .
+
+_:polyend-tracker device:make "Polyend" .
+_:polyend-tracker device:model "Tracker" .
+_:polyend-tracker device:inputs 1 .
+_:polyend-tracker device:outputs 1 .
+_:polyend-tracker device:typeB true .
+_:polyend-tracker device:uri "https://polyend.com/tracker" .
+_:polyend-tracker device:details "via https://help.polyend.com/639766-Is-the-Polyend-Tracker-MIDI-compatible" .
+
