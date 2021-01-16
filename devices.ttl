@@ -497,6 +497,13 @@ _:novation-circuit-mono-station device:thrus 1 .
 _:novation-circuit-mono-station device:typeB true .
 _:novation-circuit-mono-station device:uri "https://novationmusic.com/circuit/circuit-mono-station" .
 
+# - Novation Launchkey Mini (mk3) (Output; Type A)
+_:novation-circuit-mono-station device:make "Novation" .
+_:novation-circuit-mono-station device:model "Launchkey Mini (mk3)" .
+_:novation-circuit-mono-station device:outputs 1 .
+_:novation-circuit-mono-station device:typeA true .
+_:novation-circuit-mono-station device:uri "https://novationmusic.com/en/keys/launchkey-mini" .
+
 # - Faderfox SC4 (I/O; Arturia?)
 _:faderfox-sc4 device:make "Faderfox" .
 _:faderfox-sc4 device:model "SC4" .
