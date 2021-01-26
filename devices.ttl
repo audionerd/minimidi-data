@@ -498,11 +498,12 @@ _:novation-circuit-mono-station device:typeB true .
 _:novation-circuit-mono-station device:uri "https://novationmusic.com/circuit/circuit-mono-station" .
 
 # - Novation Launchkey Mini (mk3) (Output; Type A)
-_:novation-circuit-mono-station device:make "Novation" .
-_:novation-circuit-mono-station device:model "Launchkey Mini (mk3)" .
-_:novation-circuit-mono-station device:outputs 1 .
-_:novation-circuit-mono-station device:typeA true .
-_:novation-circuit-mono-station device:uri "https://novationmusic.com/en/keys/launchkey-mini" .
+_:novation-launchkey-mini-mk3 device:make "Novation" .
+_:novation-launchkey-mini-mk3 device:model "Launchkey Mini (mk3)" .
+_:novation-launchkey-mini-mk3 device:outputs 1 .
+_:novation-launchkey-mini-mk3 device:typeA true .
+_:novation-launchkey-mini-mk3 device:uri "https://novationmusic.com/en/keys/launchkey-mini" .
+_:novation-launchkey-mini-mk3 device:notes "TRS MIDI was introduced in the mk3 version" .
 
 # - Faderfox SC4 (I/O; Arturia?)
 _:faderfox-sc4 device:make "Faderfox" .
