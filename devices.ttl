@@ -157,7 +157,7 @@ _:squarp-rample device:inputs 1 .
 _:squarp-rample device:thrus 1 .
 _:squarp-rample device:eurorack true .
 _:squarp-rample device:typeA true .
-_:sds-digital-reflex-liveloop device:uri "https://squarp.net/rample" .
+_:squarp-rample device:uri "https://squarp.net/rample" .
 
 
 # SSF Bantam (Input; unknown)
