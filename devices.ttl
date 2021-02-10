@@ -150,6 +150,16 @@ _:sds-digital-reflex-liveloop device:notes "MIDI input available via Flash-8 exp
 _:sds-digital-reflex-liveloop device:details "“The jumpers (J2) on the board are turned 90 degrees to configure for either polarity.”" .
 _:sds-digital-reflex-liveloop device:uri "http://www.freshnelly.com/reflex/reflexhtml.htm" .
 
+#Squarp Rample
+_:squarp-rample device:make "Squarp" .
+_:squarp-rample device:model "Rample" .
+_:squarp-rample device:inputs 1 .
+_:squarp-rample device:thrus 1 .
+_:squarp-rample device:eurorack true .
+_:squarp-rample device:typeA true .
+_:squarp-rample device:uri "https://squarp.net/rample" .
+
+
 # SSF Bantam (Input; unknown)
 # Soulsby AT-Arp (Input; unknown)
 
