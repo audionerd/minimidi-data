@@ -658,7 +658,7 @@ _:jakplugg-threshold device:notes "The MIDI 3.5 mm jack can take either polarity
 _:jakplugg-threshold device:details "Variation on the open source Mutable Instruments Edges with MIDI expander built-in" .
 _:jakplugg-threshold device:uri "https://github.com/jakplugg/Threshold" .
 
-_:michigan-synth-works-threshold device:make "Michigan Synth Works " .
+_:michigan-synth-works-threshold device:make "Michigan Synth Works" .
 _:michigan-synth-works-threshold device:model "Threshold" .
 _:michigan-synth-works-threshold device:inputs 1 .
 _:michigan-synth-works-threshold device:typeA true .
@@ -697,3 +697,18 @@ _:polyend-tracker device:typeB true .
 _:polyend-tracker device:uri "https://polyend.com/tracker" .
 _:polyend-tracker device:details "via https://help.polyend.com/639766-Is-the-Polyend-Tracker-MIDI-compatible" .
 
+_:michigan-synth-works-xvi device:make "Michigan Synth Works" .
+_:michigan-synth-works-xvi device:model "XVI" .
+_:michigan-synth-works-xvi device:outputs 1 .
+_:michigan-synth-works-xvi device:typeB true .
+_:michigan-synth-works-xvi device:details "XVI Desktop USB 16 Channel Fader Bank with CV, I2C, and MIDI" .
+_:michigan-synth-works-xvi device:uri "https://michigansynthworks.com/products/xvi-desktop-usb-16-channel-fader-bank-with-cv-i2c-and-midi" .
+
+_:novation-launchpad-pro-mk3 device:make "Novation" .
+_:novation-launchpad-pro-mk3 device:model "Launchpad Pro (mk3)" .
+_:novation-launchpad-pro-mk3 device:inputs 1 .
+_:novation-launchpad-pro-mk3 device:outputs 1 .
+_:novation-launchpad-pro-mk3 device:thrus 1 .
+_:novation-launchpad-pro-mk3 device:typeA true .
+_:novation-launchpad-pro-mk3 device:notes "TRS MIDI Type A was introduced with the MK3 version." .
+_:novation-launchpad-pro-mk3 device:uri "https://novationmusic.com/launch/launchpad-pro" .
