@@ -711,5 +711,5 @@ _:novation-launchpad-pro-mk3 device:inputs 1 .
 _:novation-launchpad-pro-mk3 device:outputs 2 .
 _:novation-launchpad-pro-mk3 device:thrus 1 .
 _:novation-launchpad-pro-mk3 device:typeA true .
-_:novation-launchpad-pro-mk3 device:notes "TRS MIDI Type A was introduced with the MK3 version." .
+_:novation-launchpad-pro-mk3 device:notes "TRS MIDI Type A was introduced with the MK3 version. Device has two outs, one which can act as a thru port." .
 _:novation-launchpad-pro-mk3 device:uri "https://novationmusic.com/launch/launchpad-pro" .
