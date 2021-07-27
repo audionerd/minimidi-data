@@ -697,3 +697,9 @@ _:polyend-tracker device:typeB true .
 _:polyend-tracker device:uri "https://polyend.com/tracker" .
 _:polyend-tracker device:details "via https://help.polyend.com/639766-Is-the-Polyend-Tracker-MIDI-compatible" .
 
+_:expressivee-touche device:make "Expressive E" .
+_:expressivee-touche device:model "Touché" .
+_:expressivee-touche device:inputs 1 .
+_:expressivee-touche device:outputs 1 .
+_:expressivee-touche device:typeB true .
+_:expressivee-touche device:uri "https://www.expressivee.com/1-touche" .
