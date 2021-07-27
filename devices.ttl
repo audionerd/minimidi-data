@@ -701,8 +701,8 @@ _:michigan-synth-works-xvi device:make "Michigan Synth Works" .
 _:michigan-synth-works-xvi device:model "XVI" .
 _:michigan-synth-works-xvi device:outputs 1 .
 _:michigan-synth-works-xvi device:typeA true .
-_:michigan-synth-works-xvi device:details "XVI Desktop USB 16 Channel Fader Bank with CV, I2C, and MIDI" .
-_:michigan-synth-works-xvi device:notes "As of serial #4161, all devices have TRS MIDI A. Earlier units support TRS MIDI B." .
+_:michigan-synth-works-xvi device:notes "XVI Desktop USB 16 Channel Fader Bank with CV, I2C, and MIDI" .
+_:michigan-synth-works-xvi device:details "As of serial #4161, all devices have TRS MIDI A. Earlier units support TRS MIDI B." .
 _:michigan-synth-works-xvi device:uri "https://michigansynthworks.com/products/xvi-desktop-usb-16-channel-fader-bank-with-cv-i2c-and-midi" .
 
 _:novation-launchpad-pro-mk3 device:make "Novation" .
