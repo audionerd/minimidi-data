@@ -703,3 +703,10 @@ _:expressivee-touche device:inputs 1 .
 _:expressivee-touche device:outputs 1 .
 _:expressivee-touche device:typeB true .
 _:expressivee-touche device:uri "https://www.expressivee.com/1-touche" .
+
+_:arturia-microfreak device:make "Arturia" .
+_:arturia-microfreak device:model "MicroFreak" .
+_:arturia-microfreak device:inputs 1 .
+_:arturia-microfreak device:outputs 1 .
+_:arturia-microfreak device:typeB true .
+_:arturia-microfreak device:uri "https://www.arturia.com/products/hardware-synths/microfreak/overview" .
