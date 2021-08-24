@@ -690,6 +690,14 @@ _:retrokits-RK-006 device:typeA true .
 _:retrokits-RK-006 device:uri "https://www.retrokits.com/shop/rk006" .
 _:retrokits-RK-006 device:details "TRS-A output tip switchable to Gate/PWM".
 
+_:retrokits-RK-006 device:make "Retrokits" .
+_:retrokits-RK-006 device:model "RK-008" .
+_:retrokits-RK-006 device:inputs 2 .
+_:retrokits-RK-006 device:outputs 2 .
+_:retrokits-RK-006 device:typeA true .
+_:retrokits-RK-006 device:uri "https://www.retrokits.com/shop/rk008" .
+_:retrokits-RK-006 device:details "New MIDI Device".
+
 _:polyend-tracker device:make "Polyend" .
 _:polyend-tracker device:model "Tracker" .
 _:polyend-tracker device:inputs 1 .
