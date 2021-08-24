@@ -683,11 +683,12 @@ _:boss-rc-10r device:typeA true .
 _:boss-rc-10r device:uri "https://www.boss.info/global/products/rc-10r" .
 
 _:retrokits-RK-006 device:make "Retrokits" .
-_:retrokits-RK-006 device:model "RK-006" .
+_:retrokits-RK-006 device:model "RK-006 Hub" .
 _:retrokits-RK-006 device:inputs 2 .
 _:retrokits-RK-006 device:outputs 10 .
 _:retrokits-RK-006 device:typeA true .
 _:retrokits-RK-006 device:uri "https://www.retrokits.com/shop/rk006" .
+_:retrokits-RK-006 device:details "TRS-A output tip switchable to Gate/PWM".
 
 _:polyend-tracker device:make "Polyend" .
 _:polyend-tracker device:model "Tracker" .
