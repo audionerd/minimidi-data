@@ -682,21 +682,22 @@ _:boss-rc-10r device:outputs 1 .
 _:boss-rc-10r device:typeA true .
 _:boss-rc-10r device:uri "https://www.boss.info/global/products/rc-10r" .
 
-_:retrokits-RK-006 device:make "Retrokits" .
-_:retrokits-RK-006 device:model "RK-006 Hub" .
-_:retrokits-RK-006 device:inputs 2 .
-_:retrokits-RK-006 device:outputs 10 .
-_:retrokits-RK-006 device:typeA true .
-_:retrokits-RK-006 device:uri "https://www.retrokits.com/shop/rk006" .
-_:retrokits-RK-006 device:details "TRS-A output tip switchable to Gate/PWM".
+_:retrokits-rk-006 device:make "Retrokits" .
+_:retrokits-rk-006 device:model "RK-006" .
+_:retrokits-rk-006 device:inputs 2 .
+_:retrokits-rk-006 device:outputs 10 .
+_:retrokits-rk-006 device:typeA true .
+_:retrokits-rk-006 device:notes "Portable USB MIDI/Gate Hub" .
+_:retrokits-rk-006 device:details "TRS-A output tip switchable to Gate/PWM" .
+_:retrokits-rk-006 device:uri "https://www.retrokits.com/shop/rk006" .
 
-_:retrokits-RK-008 device:make "Retrokits" .
-_:retrokits-RK-008 device:model "RK-008" .
-_:retrokits-RK-008 device:inputs 2 .
-_:retrokits-RK-008 device:outputs 2 .
-_:retrokits-RK-008 device:typeA true .
-_:retrokits-RK-008 device:uri "https://www.retrokits.com/shop/rk008" .
-_:retrokits-RK-008 device:details "New MIDI Device".
+_:retrokits-rk-008 device:make "Retrokits" .
+_:retrokits-rk-008 device:model "RK-008" .
+_:retrokits-rk-008 device:inputs 2 .
+_:retrokits-rk-008 device:outputs 2 .
+_:retrokits-rk-008 device:typeA true .
+_:retrokits-rk-008 device:notes "Real-time MIDI Recorder/Performer" .
+_:retrokits-rk-008 device:uri "https://www.retrokits.com/shop/rk008" .
 
 _:polyend-tracker device:make "Polyend" .
 _:polyend-tracker device:model "Tracker" .
