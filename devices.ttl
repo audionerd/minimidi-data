@@ -732,5 +732,5 @@ _:eowave-quadrantid-swarm device:make "Eowave" .
 _:eowave-quadrantid-swarm device:model "Quadrantid Swarm" .
 _:eowave-quadrantid-swarm device:inputs 1 .
 _:eowave-quadrantid-swarm device:typeB true .
-_:eowave-quadrantid-swarm device:notes "Also available in eurorack" .
+_:eowave-quadrantid-swarm device:notes "Also available in Eurorack" .
 _:eowave-quadrantid-swarm device:uri "http://www.eowave.com/synthesizers/quadrantid-swarm/" .
