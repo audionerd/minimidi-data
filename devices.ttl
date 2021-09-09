@@ -742,3 +742,10 @@ _:korg-sq-64 device:outputs 2 .
 _:korg-sq-64 device:typeA true .
 _:korg-sq-64 device:notes "Poly Sequencer" .
 _:korg-sq-64 device:uri "https://www.korg.com/us/products/dj/sq_64" .
+
+_:namespace device:make "MOD" .
+_:namespace device:model "Dwarf" .
+_:namespace device:inputs 1 .
+_:namespace device:outputs 1 .
+_:namespace device:typeA true .
+_:namespace device:uri "https://moddevices.com/products/dwarf" .
