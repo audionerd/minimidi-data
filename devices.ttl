@@ -734,3 +734,11 @@ _:eowave-quadrantid-swarm device:inputs 1 .
 _:eowave-quadrantid-swarm device:typeB true .
 _:eowave-quadrantid-swarm device:details "Also available in Eurorack" .
 _:eowave-quadrantid-swarm device:uri "https://www.eowave.com/synthesizers/quadrantid-swarm" .
+
+_:korg-sq-64 device:make "Korg" .
+_:korg-sq-64 device:model "SQ-64" .
+_:korg-sq-64 device:inputs 1 .
+_:korg-sq-64 device:outputs 2 .
+_:korg-sq-64 device:typeA true .
+_:korg-sq-64 device:notes "Poly Sequencer" .
+_:korg-sq-64 device:uri "https://www.korg.com/us/products/dj/sq_64" .
