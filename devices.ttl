@@ -759,3 +759,10 @@ _:mod-dwarf device:inputs 1 .
 _:mod-dwarf device:outputs 1 .
 _:mod-dwarf device:typeA true .
 _:mod-dwarf device:uri "https://moddevices.com/products/dwarf" .
+
+_:bastl-midilooper device:make "Bastl" .
+_:bastl-midilooper device:model "Midilooper" .
+_:bastl-midilooper device:inputs 1 .
+_:bastl-midilooper device:typeA true .
+_:bastl-midilooper:notes "clock in input is able to act as a midi clock in" .
+_:bastl-midilooper device:uri "https://bastl-instruments.com/instruments/midilooper" .
