@@ -767,6 +767,13 @@ _:mod-dwarf device:outputs 1 .
 _:mod-dwarf device:typeA true .
 _:mod-dwarf device:uri "https://moddevices.com/products/dwarf" .
 
+_:bastl-midilooper device:make "Bastl" .
+_:bastl-midilooper device:model "Midilooper" .
+_:bastl-midilooper device:inputs 1 .
+_:bastl-midilooper device:typeA true .
+_:bastl-midilooper:notes "clock input accepts analog clock or TRS MIDI Clock" .
+_:bastl-midilooper device:uri "https://bastl-instruments.com/instruments/midilooper" .
+
 _:dirtywave-m8 device:make "Dirtywave" .
 _:dirtywave-m8 device:model "M8" .
 _:dirtywave-m8 device:inputs 1 .
