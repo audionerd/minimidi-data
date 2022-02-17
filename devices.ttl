@@ -461,6 +461,13 @@ _:korg-electribe-sampler device:outputs 1 .
 _:korg-electribe-sampler device:typeA true .
 _:korg-electribe-sampler device:uri "https://www.korg.com/us/products/dj/electribe_sampler" .
 
+# - Korg NTS-1 (In; Polarity Korg)
+_:korg-nts-1 device:make "Korg" .
+_:korg-nts-1 device:model "NTS-1" .
+_:korg-nts-1 device:inputs 1 .
+_:korg-nts-1 device:typeA true .
+_:korg-nts-1 device:uri "https://www.korg.com/us/products/dj/nts_1/" .
+
 # - Korg SQ-1 (Out; Polarity Korg)
 _:korg-sq-1 device:make "Korg" .
 _:korg-sq-1 device:model "SQ-1" .
@@ -764,5 +771,13 @@ _:bastl-midilooper device:make "Bastl" .
 _:bastl-midilooper device:model "Midilooper" .
 _:bastl-midilooper device:inputs 1 .
 _:bastl-midilooper device:typeA true .
-_:bastl-midilooper:notes "clock in input is able to act as a midi clock in" .
+_:bastl-midilooper:notes "clock input accepts analog clock or TRS MIDI Clock" .
 _:bastl-midilooper device:uri "https://bastl-instruments.com/instruments/midilooper" .
+
+_:dirtywave-m8 device:make "Dirtywave" .
+_:dirtywave-m8 device:model "M8" .
+_:dirtywave-m8 device:inputs 1 .
+_:dirtywave-m8 device:outputs 1 .
+_:dirtywave-m8 device:typeA true .
+_:dirtywave-m8 device:details "M8 is a portable handheld tracker sequencer and synthesizer with USB audio/midi." .
+_:dirtywave-m8 device:uri "https://dirtywave.com/" .
