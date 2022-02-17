@@ -462,11 +462,11 @@ _:korg-electribe-sampler device:typeA true .
 _:korg-electribe-sampler device:uri "https://www.korg.com/us/products/dj/electribe_sampler" .
 
 # - Korg NTS-1 (In; Polarity Korg)
-_:korg-sq-1 device:make "Korg" .
-_:korg-sq-1 device:model "NTS-1" .
-_:korg-sq-1 device:inputs 1 .
-_:korg-sq-1 device:typeA true .
-_:korg-sq-1 device:uri "https://www.korg.com/us/products/dj/nts_1/" .
+_:korg-nts-1 device:make "Korg" .
+_:korg-nts-1 device:model "NTS-1" .
+_:korg-nts-1 device:inputs 1 .
+_:korg-nts-1 device:typeA true .
+_:korg-nts-1 device:uri "https://www.korg.com/us/products/dj/nts_1/" .
 
 # - Korg SQ-1 (Out; Polarity Korg)
 _:korg-sq-1 device:make "Korg" .
