@@ -766,3 +766,11 @@ _:mod-dwarf device:inputs 1 .
 _:mod-dwarf device:outputs 1 .
 _:mod-dwarf device:typeA true .
 _:mod-dwarf device:uri "https://moddevices.com/products/dwarf" .
+
+_:dirtywave-m8 device:make "Dirtywave" .
+_:dirtywave-m8 device:model "M8" .
+_:dirtywave-m8 device:inputs 1 .
+_:dirtywave-m8 device:outputs 1 .
+_:dirtywave-m8 device:typeA true .
+_:dirtywave-m8 device:details "M8 is a portable handheld tracker sequencer and synthesizer with USB audio/midi." .
+_:dirtywave-m8 device:uri "https://dirtywave.com/" .
