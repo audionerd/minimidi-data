@@ -771,7 +771,7 @@ _:bastl-midilooper device:make "Bastl" .
 _:bastl-midilooper device:model "Midilooper" .
 _:bastl-midilooper device:inputs 1 .
 _:bastl-midilooper device:typeA true .
-_:bastl-midilooper:notes "clock input accepts analog clock or TRS MIDI Clock" .
+_:bastl-midilooper device:notes "clock input accepts analog clock or TRS MIDI Clock" .
 _:bastl-midilooper device:uri "https://bastl-instruments.com/instruments/midilooper" .
 
 _:dirtywave-m8 device:make "Dirtywave" .
