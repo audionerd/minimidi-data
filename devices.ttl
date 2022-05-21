@@ -781,3 +781,10 @@ _:dirtywave-m8 device:outputs 1 .
 _:dirtywave-m8 device:typeA true .
 _:dirtywave-m8 device:notes "Portable handheld tracker, sequencer, and synthesizer with USB audio and MIDI" .
 _:dirtywave-m8 device:uri "https://dirtywave.com" .
+
+_:audiothingies-micromonsta-2 device:make "Audiothingies" .
+_:audiothingies-micromonsta-2 device:model "MicroMonsta 2" .
+_:audiothingies-micromonsta-2 device:inputs 1 .
+_:audiothingies-micromonsta-2 device:typeA true .
+_:audiothingies-micromonsta-2 device:notes "Dual polyphonic synthesizer" .
+_:audiothingies-micromonsta-2 device:uri "https://www.audiothingies.com/product/micromonsta2" .
