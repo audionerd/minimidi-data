@@ -788,3 +788,28 @@ _:audiothingies-micromonsta-2 device:inputs 1 .
 _:audiothingies-micromonsta-2 device:typeA true .
 _:audiothingies-micromonsta-2 device:notes "Dual polyphonic synthesizer" .
 _:audiothingies-micromonsta-2 device:uri "https://www.audiothingies.com/product/micromonsta2" .
+
+# Roland Aira Compact Series
+_:roland-t-8 device:make "Roland" .
+_:roland-t-8 device:model "T-8" .
+_:roland-t-8 device:inputs 1 .
+_:roland-t-8 device:outputs 1 .
+_:roland-t-8 device:typeA true .
+_:roland-t-8 device:notes "Drum Machine and 303 emulation" .
+_:roland-t-8 device:uri "https://www.roland.com/us/products/t-8/" .
+
+_:roland-j-6 device:make "Roland" .
+_:roland-j-6 device:model "J-6" .
+_:roland-j-6 device:inputs 1 .
+_:roland-j-6 device:outputs 1 .
+_:roland-j-6 device:typeA true .
+_:roland-j-6 device:notes "Juno emulation with Chord Sequencer" .
+_:roland-j-6 device:uri "https://www.roland.com/us/products/j-6/" .
+
+_:roland-e-4 device:make "Roland" .
+_:roland-e-4 device:model "E-4" .
+_:roland-e-4 device:inputs 1 .
+_:roland-e-4 device:outputs 1 .
+_:roland-e-4 device:typeA true .
+_:roland-e-4 device:notes "Voice processor" .
+_:roland-e-4 device:uri "https://www.roland.com/us/products/e-4/" .
