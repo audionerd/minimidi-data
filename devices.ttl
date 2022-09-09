@@ -820,3 +820,9 @@ _:moog-subharmonicon device:inputs 1 .
 _:moog-subharmonicon device:typeA true .
 _:moog-subharmonicon device:details "Subharmonicon can receive master clock (TEMPO) information, note data, and various CC (Control Change) messages via MIDI." .
 _:moog-subharmonicon device:uri "https://www.moogmusic.com/products/subharmonicon" .
+
+_:befaco-cv-thing device:make "Befaco" .
+_:befaco-cv-thing device:model "CV Thing" .
+_:befaco-cv-thing device:outputs 1 .
+_:befaco-cv-thing device:typeA true .
+_:befaco-cv-thing device:uri "https://www.befaco.org/cv_thing" .
