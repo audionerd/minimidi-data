@@ -826,3 +826,9 @@ _:befaco-cv-thing device:model "CV Thing" .
 _:befaco-cv-thing device:outputs 1 .
 _:befaco-cv-thing device:typeA true .
 _:befaco-cv-thing device:uri "https://www.befaco.org/cv_thing" .
+
+_:dreadbox-nymphes device:make "Dreadbox" .
+_:dreadbox-nymphes device:model "Nymphes" .
+_:dreadbox-nymphes device:inputs 1 .
+_:dreadbox-nymphes device:typeA true .
+_:dreadbox-nymphes device:uri "https://www.dreadbox-fx.com/nymphes" .
