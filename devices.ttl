@@ -813,3 +813,10 @@ _:roland-e-4 device:outputs 1 .
 _:roland-e-4 device:typeA true .
 _:roland-e-4 device:notes "Voice processor" .
 _:roland-e-4 device:uri "https://www.roland.com/us/products/e-4/" .
+
+_:moog-subharmonicon device:make "Moog" .
+_:moog-subharmonicon device:model "Subharmonicon" .
+_:moog-subharmonicon device:inputs 1 .
+_:moog-subharmonicon device:typeA true .
+_:moog-subharmonicon device:details "Subharmonicon can receive master clock (TEMPO) information, note data, and various CC (Control Change) messages via MIDI." .
+_:moog-subharmonicon device:uri "https://www.moogmusic.com/products/subharmonicon" .
