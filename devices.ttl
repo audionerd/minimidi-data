@@ -226,6 +226,16 @@ _:1010music-blackbox device:typeB true .
 _:1010music-blackbox device:notes "Compact Sampling Studio" .
 _:1010music-blackbox device:uri "https://1010music.com/product/blackbox" .
 
+_:1010music-bluebox device:make "1010music" .
+_:1010music-bluebox device:model "Bluebox" .
+_:1010music-bluebox device:inputs 1 .
+_:1010music-bluebox device:outputs 1 .
+_:1010music-bluebox device:typeB true .
+_:1010music-bluebox device:typeA true .
+_:1010music-bluebox device:notes "Compact Digital Mixer/Recorder" .
+_:1010music-bluebox device:detail "The manual states the device supports either Type A or Type B." .
+_:1010music-bluebox device:uri "https://1010music.com/product/bluebox" .
+
 _:1010music-synthbox device:make "1010music" .
 _:1010music-synthbox device:model "Synthbox" .
 _:1010music-synthbox device:inputs 1 .
