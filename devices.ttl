@@ -233,7 +233,7 @@ _:1010music-bluebox device:outputs 1 .
 _:1010music-bluebox device:typeB true .
 _:1010music-bluebox device:typeA true .
 _:1010music-bluebox device:notes "Compact Digital Mixer/Recorder" .
-_:1010music-bluebox device:detail "The manual states the device supports either Type A or Type B." .
+_:1010music-bluebox device:details "The manual states the device supports either Type A or Type B." .
 _:1010music-bluebox device:uri "https://1010music.com/product/bluebox" .
 
 _:1010music-synthbox device:make "1010music" .
