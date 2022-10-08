@@ -799,6 +799,14 @@ _:audiothingies-micromonsta-2 device:typeA true .
 _:audiothingies-micromonsta-2 device:notes "Dual polyphonic synthesizer" .
 _:audiothingies-micromonsta-2 device:uri "https://www.audiothingies.com/product/micromonsta2" .
 
+_:roland-sp-404-mk2 device:make "Roland" .
+_:roland-sp-404-mk2 device:model "SP-404MKII" .
+_:roland-sp-404-mk2 device:inputs 1 .
+_:roland-sp-404-mk2 device:outputs 1 .
+_:roland-sp-404-mk2 device:typeA true .
+_:roland-sp-404-mk2 device:notes "Digital sampler" .
+_:roland-sp-404-mk2 device:uri "https://www.roland.com/global/products/sp-404mk2/" .
+
 # Roland Aira Compact Series
 _:roland-t-8 device:make "Roland" .
 _:roland-t-8 device:model "T-8" .
