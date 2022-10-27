@@ -159,6 +159,15 @@ _:squarp-rample device:eurorack true .
 _:squarp-rample device:typeA true .
 _:squarp-rample device:uri "https://squarp.net/rample" .
 
+#Squarp Hapax
+_:squarp-hapax device:make "Squarp" .
+_:squarp-hapax device:model "Hapax" .
+_:squarp-hapax device:inputs 1 .
+_:squarp-hapax device:outputs 1 .
+_:squarp-hapax device:typeA true .
+_:squarp-hapax device:notes "Polychronic performance sequencer" .
+_:squarp-hapax device:details "Additional 1 DIN MIDI in, 3 DIN MIDI outs" .
+_:squarp-hapax device:uri "https://squarp.net/hapax" .
 
 # SSF Bantam (Input; unknown)
 # Soulsby AT-Arp (Input; unknown)
