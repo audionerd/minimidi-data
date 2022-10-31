@@ -859,3 +859,12 @@ _:dreadbox-nymphes device:model "Nymphes" .
 _:dreadbox-nymphes device:inputs 1 .
 _:dreadbox-nymphes device:typeA true .
 _:dreadbox-nymphes device:uri "https://www.dreadbox-fx.com/nymphes" .
+
+# Cejetvole Super MIDI Pak
+_:cejetvole-super-midi-pak device:make "Cejetvole" .
+_:cejetvole-super-midi-pak device:model "Super MIDI Pak" .
+_:cejetvole-super-midi-pak device:inputs 1 .
+_:cejetvole-super-midi-pak device:outputs 1 .
+_:cejetvole-super-midi-pak device:typeA true .
+_:cejetvole-super-midi-pak device:details "MIDI synthesizer for the Super Famicom/Super Nintendo/Super NT" .
+_:cejetvole-super-midi-pak device:uri "https://www.supermidipak.com/" .
