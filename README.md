@@ -39,6 +39,8 @@ _:label device:eurorack true .
 
 `device:typeB` – does the device support Type B?
 
+`device:typeTS` - does the device support Type TS (mono)?
+
 `device:swappable` – can the device be configured for EITHER Type A OR Type B?
 
 `device:notes` – brief notes describing the device
