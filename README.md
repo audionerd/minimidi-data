@@ -4,6 +4,8 @@ This is the dataset of TRS MIDI devices used for [minimidi.world](https://minimi
 
 `devices.ttl` is a file in [Terse RDF Triple Language (Turtle)](https://www.w3.org/TR/turtle) syntax.
 
+When submitting a PR, please try to comment with a link to an official source (manufacturer page url, link to manual with associated page number, etc) that documents the TRS MIDI type (A or B) used by the device.
+
 ## Template
 
 ```
