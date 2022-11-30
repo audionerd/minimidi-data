@@ -868,3 +868,14 @@ _:cejetvole-super-midi-pak device:outputs 1 .
 _:cejetvole-super-midi-pak device:typeA true .
 _:cejetvole-super-midi-pak device:details "MIDI synthesizer for the Super Famicom/Super Nintendo/Super NT" .
 _:cejetvole-super-midi-pak device:uri "https://www.supermidipak.com/" .
+
+_:ryk-vector-wave device:make "RYK Modular" .
+_:ryk-vector-wave device:model "Vector Wave" .
+_:ryk-vector-wave device:inputs 1 .
+_:ryk-vector-wave device:swappable true .
+_:ryk-vector-wave device:typeA true .
+_:ryk-vector-wave device:typeB true .
+_:ryk-vector-wave device:notes "FM / Harmonic Vector Stereo Synth Voice" .
+_:ryk-vector-wave device:details "A micro switch on the back of the module sets TRS MIDI polarity" .
+_:ryk-vector-wave device:uri "https://rykmodular.bigcartel.com/product/vector-wave" .
+_:ryk-vector-wave device:eurorack true .
