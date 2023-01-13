@@ -879,3 +879,10 @@ _:ryk-vector-wave device:notes "FM / Harmonic Vector Stereo Synth Voice" .
 _:ryk-vector-wave device:details "A micro switch on the back of the module sets TRS MIDI polarity" .
 _:ryk-vector-wave device:uri "https://rykmodular.bigcartel.com/product/vector-wave" .
 _:ryk-vector-wave device:eurorack true .
+
+_:novation-flkey-mini device:make "Novation" .
+_:novation-flkey-mini device:model "FLkey Mini" .
+_:novation-flkey-mini device:outputs 1 .
+_:novation-flkey-mini device:typeA true .
+_:novation-flkey-mini device:notes "MIDI Keyboard" .
+_:novation-flkey-mini device:uri "https://novationmusic.com/en/keys/flkey" .
