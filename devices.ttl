@@ -895,3 +895,10 @@ _:dermannmitdermaschine-droid-x7 device:typeA true .
 _:dermannmitdermaschine-droid-x7 device:typeB true .
 _:dermannmitdermaschine-droid-x7 device:notes "MIDI and USB Expander" .
 _:dermannmitdermaschine-droid-x7 device:uri "https://shop.dermannmitdermaschine.de/collections/droid-master/products/x7" .
+
+_:ziqal-dimension-mk3  device:make "Ziqal" .
+_:ziqal-dimension-mk3  device:model "Dimension MK3" .
+_:ziqal-dimension-mk3  device:inputs 1 .
+_:ziqal-dimension-mk3  device:typeA true .
+_:ziqal-dimension-mk3  device:notes "Wavetable Processor" .
+_:ziqal-dimension-mk3  device:uri "https://ziqal.com/?v=d3dcf429c679" .
