@@ -886,3 +886,12 @@ _:novation-flkey-mini device:outputs 1 .
 _:novation-flkey-mini device:typeA true .
 _:novation-flkey-mini device:notes "MIDI Keyboard" .
 _:novation-flkey-mini device:uri "https://novationmusic.com/en/keys/flkey" .
+
+_:dermannmitdermaschine-droid-x7 device:make "Der Mann mit der Maschine" .
+_:dermannmitdermaschine-droid-x7 device:model "DROID X7" .
+_:dermannmitdermaschine-droid-x7 device:inputs 1 .
+_:dermannmitdermaschine-droid-x7 device:outputs 1 .
+_:dermannmitdermaschine-droid-x7 device:typeA true .
+_:dermannmitdermaschine-droid-x7 device:typeB true .
+_:dermannmitdermaschine-droid-x7 device:notes "MIDI and USB Expander" .
+_:dermannmitdermaschine-droid-x7 device:uri "https://shop.dermannmitdermaschine.de/collections/droid-master/products/x7" .
