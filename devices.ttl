@@ -910,3 +910,16 @@ _:oxi-instruments-oxi-one device:outputs 1 .
 _:oxi-instruments-oxi-one device:typeA true .
 _:oxi-instruments-oxi-one device:notes "Grid Sequencer" .
 _:oxi-instruments-oxi-one device:uri "https://oxiinstruments.com/oxi-one" .
+
+_:mengqi-wingie2 device:make "Meng Qi" .
+_:mengqi-wingie2 device:model "Wingie2" .
+_:mengqi-wingie2 device:inputs 1 .
+_:mengqi-wingie2 device:typeA true .
+_:mengqi-wingie2 device:uri "https://www.mengqimusic.com/wingie2-introduction" .
+
+_:mengqi-wingpinger device:make "Meng Qi" .
+_:mengqi-wingpinger device:model "Wing Pinger" .
+_:mengqi-wingpinger device:inputs 1 .
+_:mengqi-wingpinger device:outputs 1 .
+_:mengqi-wingpinger device:typeA true .
+_:mengqi-wingpinger device:uri "https://www.mengqimusic.com/wingpinger-introduction" .
