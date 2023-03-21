@@ -903,10 +903,10 @@ _:ziqal-dimension-mk3  device:typeA true .
 _:ziqal-dimension-mk3  device:notes "Wavetable Processor" .
 _:ziqal-dimension-mk3  device:uri "https://ziqal.com/?v=d3dcf429c679" .
 
-_:oxiinstruments-oxi-one  device:make "OXI Instruments" .
-_:oxiinstruments-oxi-one  device:model "OXI One" .
-_:oxiinstruments-oxi-one  device:inputs 1 .
-_:oxiinstruments-oxi-one  device:outputs 1 .
-_:oxiinstruments-oxi-one  device:typeA true .
-_:oxiinstruments-oxi-one  device:notes "Grid Sequencer" .
-_:oxiinstruments-oxi-one  device:uri "https://oxiinstruments.com/oxi-one/" .
+_:oxi-instruments-oxi-one device:make "OXI Instruments" .
+_:oxi-instruments-oxi-one device:model "OXI One" .
+_:oxi-instruments-oxi-one device:inputs 1 .
+_:oxi-instruments-oxi-one device:outputs 1 .
+_:oxi-instruments-oxi-one device:typeA true .
+_:oxi-instruments-oxi-one device:notes "Grid Sequencer" .
+_:oxi-instruments-oxi-one device:uri "https://oxiinstruments.com/oxi-one" .
