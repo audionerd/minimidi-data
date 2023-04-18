@@ -923,3 +923,9 @@ _:mengqi-wingpinger device:inputs 1 .
 _:mengqi-wingpinger device:outputs 1 .
 _:mengqi-wingpinger device:typeA true .
 _:mengqi-wingpinger device:uri "https://www.mengqimusic.com/wingpinger-introduction" .
+
+_:sds-digital-k-accord-melisma device:make "SDS Digital & K" .
+_:sds-digital-k-accord-melisma device:model "Accord Melisma" .
+_:sds-digital-k-accord-melisma device:outputs 1 .
+_:sds-digital-k-accord-melisma device:typeA true .
+_:sds-digital-k-accord-melisma device:uri "https://freshnelly.com/melisma/melisma.htm" .
