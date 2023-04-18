@@ -929,3 +929,12 @@ _:sds-digital-k-accord-melisma device:model "Accord Melisma" .
 _:sds-digital-k-accord-melisma device:outputs 1 .
 _:sds-digital-k-accord-melisma device:typeA true .
 _:sds-digital-k-accord-melisma device:uri "https://freshnelly.com/melisma/melisma.htm" .
+
+_:kinotone-ribbons device:make "Kinotone" .
+_:kinotone-ribbons device:model "Ribbons" .
+_:kinotone-ribbons device:inputs 1 .
+_:kinotone-ribbons device:swappable true .
+_:kinotone-ribbons device:typeA true .
+_:kinotone-ribbons device:typeB true .
+_:kinotone-ribbons device:details "Internal jumpers select TRS MIDI variant: A (factory default), B, or CBA (Chase Bliss)" .
+_:kinotone-ribbons device:uri "https://kinotoneaudio.com/products/ribbons" .
