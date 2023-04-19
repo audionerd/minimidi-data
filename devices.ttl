@@ -270,6 +270,15 @@ _:1010music-euroshield1 device:typeB true .
 _:1010music-euroshield1 device:notes "Synthesizer and Effects Development Board" .
 _:1010music-euroshield1 device:uri "https://1010music.com/product/euroshield1" .
 
+_:1010music-lemondrop device:make "1010music" .
+_:1010music-lemondrop device:model "Lemondrop" .
+_:1010music-lemondrop device:inputs 1 .
+_:1010music-lemondrop device:outputs 1 .
+_:1010music-lemondrop device:typeA true .
+_:1010music-lemondrop device:typeB true .
+_:1010music-lemondrop device:details "MIDI IN autodetects type A or B; MIDI OUT is only type B (OUT is only MIDI THRU as of v1.1.2)" .
+_:1010music-lemondrop device:uri "https://1010music.com/product/lemondrop" .
+
 # ADDAC System ADDAC221 (I/O; Polarity Korg)
 # per muffwiggler thread. could not find confirmation of type on the addac systems site.
 _:addac-addac221 device:make "ADDAC" .
