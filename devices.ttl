@@ -850,6 +850,14 @@ _:roland-e-4 device:typeA true .
 _:roland-e-4 device:notes "Voice processor" .
 _:roland-e-4 device:uri "https://www.roland.com/us/products/e-4/" .
 
+_:roland-s-1 device:make "Roland" .
+_:roland-s-1 device:model "S-1" .
+_:roland-s-1 device:inputs 1 .
+_:roland-s-1 device:outputs 1 .
+_:roland-s-1 device:typeA true .
+_:roland-s-1 device:notes "Extended SH-101 emulation" .
+_:roland-s-1 device:uri "https://www.roland.com/us/products/s-1/" .
+
 _:moog-subharmonicon device:make "Moog" .
 _:moog-subharmonicon device:model "Subharmonicon" .
 _:moog-subharmonicon device:inputs 1 .
