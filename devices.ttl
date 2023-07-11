@@ -947,3 +947,42 @@ _:kinotone-ribbons device:typeA true .
 _:kinotone-ribbons device:typeB true .
 _:kinotone-ribbons device:details "Internal jumpers select TRS MIDI variant: A (factory default), B, or CBA (Chase Bliss)" .
 _:kinotone-ribbons device:uri "https://kinotoneaudio.com/products/ribbons" .
+
+_:tubbutec-6equencer device:make "Tubbutec" .
+_:tubbutec-6equencer device:model "6equencer" .
+_:tubbutec-6equencer device:inputs 1 .
+_:tubbutec-6equencer device:outputs 1 .
+_:tubbutec-6equencer device:thrus 0 .
+_:tubbutec-6equencer device:swappable false .
+_:tubbutec-6equencer device:typeA true .
+_:tubbutec-6equencer device:typeB false .
+_:tubbutec-6equencer device:notes "TR style drum sequencer" .
+_:tubbutec-6equencer device:details "TR style drum sequencer with MIDI and 8 trigger outputs" .
+_:tubbutec-6equencer device:uri "https://tubbutec.de/6equencer/" .
+_:tubbutec-6equencer device:eurorack true .
+
+_:tubbutec-usbbridgea device:make "Tubbutec" .
+_:tubbutec-usbbridgea device:model "USB Bridge A" .
+_:tubbutec-usbbridgea device:inputs 1 .
+_:tubbutec-usbbridgea device:outputs 1 .
+_:tubbutec-usbbridgea device:thrus 0 .
+_:tubbutec-usbbridgea device:swappable false .
+_:tubbutec-usbbridgea device:typeA true .
+_:tubbutec-usbbridgea device:typeB false .
+_:tubbutec-usbbridgea device:notes "Dual USB Midi Host" .
+_:tubbutec-usbbridgea device:details "MIDI USB and TRS router / merger" .
+_:tubbutec-usbbridgea device:uri "https://tubbutec.de/usb-bridge-a/" .
+_:tubbutec-usbbridgea device:eurorack true .
+
+_:tubbutec-trsbridge device:make "Tubbutec" .
+_:tubbutec-trsbridge device:model "TRS Bridge" .
+_:tubbutec-trsbridge device:inputs 4 .
+_:tubbutec-trsbridge device:outputs 4 .
+_:tubbutec-trsbridge device:thrus 0 .
+_:tubbutec-trsbridge device:swappable true .
+_:tubbutec-trsbridge device:typeA true .
+_:tubbutec-trsbridge device:typeB true .
+_:tubbutec-trsbridge device:notes "4x4 TRS MIDI router" .
+_:tubbutec-trsbridge device:details "Inputs automatically accept A or B, outputs can be switched between A and B" .
+_:tubbutec-trsbridge device:uri "https://tubbutec.de/trs-bridge/" .
+_:tubbutec-trsbridge device:eurorack true .
