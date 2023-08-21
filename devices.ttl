@@ -817,6 +817,14 @@ _:audiothingies-micromonsta-2 device:typeA true .
 _:audiothingies-micromonsta-2 device:notes "Dual polyphonic synthesizer" .
 _:audiothingies-micromonsta-2 device:uri "https://www.audiothingies.com/product/micromonsta2" .
 
+_:boss-sl-2 device:make "Boss" .
+_:boss-sl-2 device:model "SL-2 Slicer" .
+_:boss-sl-2 device:inputs 1 .
+_:boss-sl-2 device:outputs 1 .
+_:boss-sl-2 device:typeA true .
+_:boss-sl-2 device:notes "Audio chopper guitar pedal" .
+_:boss-sl-2 device:uri "https://www.boss.info/global/products/sl-2/" .
+
 _:roland-sp-404-mk2 device:make "Roland" .
 _:roland-sp-404-mk2 device:model "SP-404MKII" .
 _:roland-sp-404-mk2 device:inputs 1 .
