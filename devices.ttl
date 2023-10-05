@@ -956,11 +956,11 @@ _:kinotone-ribbons device:typeB true .
 _:kinotone-ribbons device:details "Internal jumpers select TRS MIDI variant: A (factory default), B, or CBA (Chase Bliss)" .
 _:kinotone-ribbons device:uri "https://kinotoneaudio.com/products/ribbons" .
 
-_:xor-electronics-2hp-trs-a-midi-expander device:make "XOR Electronics"
-_:xor-electronics-2hp-trs-a-midi-expander device:model "2HP TRS-A Midi Expander"
+_:xor-electronics-2hp-trs-a-midi-expander device:make "XOR Electronics" .
+_:xor-electronics-2hp-trs-a-midi-expander device:model "2HP TRS-A Midi Expander" .
 _:xor-electronics-2hp-trs-a-midi-expander device:inputs 1 .
 _:xor-electronics-2hp-trs-a-midi-expander device:outputs 2 .
 _:xor-electronics-2hp-trs-a-midi-expander device:typeA true .
-_:xor-electronics-2hp-trs-a-midi-expander device:notes "MIDI Expander for the Nerdseq"
-_:xor-electronics-2hp-trs-a-midi-expander device:details "Second output switchable to thru."
-_:xor-electronics-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander/"
+_:xor-electronics-2hp-trs-a-midi-expander device:notes "MIDI Expander for the Nerdseq" .
+_:xor-electronics-2hp-trs-a-midi-expander device:details "Second output switchable to thru." .
+_:xor-electronics-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander" .
