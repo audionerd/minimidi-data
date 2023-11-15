@@ -169,6 +169,17 @@ _:squarp-hapax device:notes "Polychronic performance sequencer" .
 _:squarp-hapax device:details "Additional 1 DIN MIDI in, 3 DIN MIDI outs" .
 _:squarp-hapax device:uri "https://squarp.net/hapax" .
 
+#Squarp Hermod+
+_:squarp-hermodplus device:make "Squarp" .
+_:squarp-hermodplus device:model "Hermod+" .
+_:squarp-hermodplus device:inputs 1 .
+_:squarp-hermodplus device:outputs 1 .
+_:squarp-hermodplus device:typeA true .
+_:squarp-hermodplus device:eurorack true .
+_:squarp-hermodplus device:notes "Modular brain" .
+_:squarp-hermodplus device:details "Eurorack sequencer with 4 CV/Gate ins, 8 CV/Gate outs, TRS MIDI, USB MIDI, 1 analog clock/reset out" .
+_:squarp-hermodplus device:uri "https://squarp.net/hermodplus" .
+
 # SSF Bantam (Input; unknown)
 # Soulsby AT-Arp (Input; unknown)
 
