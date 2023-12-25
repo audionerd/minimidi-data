@@ -1,5 +1,13 @@
 @prefix device: <http://example.org/vocab/device/> .
 
+_:label device:make "Teenage Engineering" .
+_:label device:model "EP133 K.O. II" .
+_:label device:inputs 1 .
+_:label device:outputs 1 .
+_:label device:swappable true .
+_:label device:typeA true .
+_:label device:uri "https://teenage.engineering/products/ep-133" .
+
 _:alm-pexp-2 device:make "ALM/Busy Circuits" .
 _:alm-pexp-2 device:model "Pexp-2: Pamela’s New Workout Expander" .
 _:alm-pexp-2 device:outputs 1 .
