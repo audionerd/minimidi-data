@@ -4,7 +4,6 @@ _:label device:make "Teenage Engineering" .
 _:label device:model "EP133 K.O. II" .
 _:label device:inputs 1 .
 _:label device:outputs 1 .
-_:label device:swappable true .
 _:label device:typeA true .
 _:label device:uri "https://teenage.engineering/products/ep-133" .
 
