@@ -1043,3 +1043,10 @@ _:poly-effects-beebo device:outputs 1 .
 _:poly-effects-beebo device:typeA true .
 _:poly-effects-beebo device:notes "Was Type B before Digit serial #475 or before Beebo serial #338" .
 _:poly-effects-beebo device:uri "https://polyeffects.com/polyeffects/p/beebo" .
+
+_:ableton-push-3 device:make "Ableton" .
+_:ableton-push-3 device:model "Push 3" .
+_:ableton-push-3 device:inputs 1 .
+_:ableton-push-3 device:outputs 1 .
+_:ableton-push-3 device:typeA true .
+_:ableton-push-3 device:uri "https://ableton.com/push" .
