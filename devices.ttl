@@ -1028,3 +1028,10 @@ _:teenage-engineering-ep-133 device:inputs 1 .
 _:teenage-engineering-ep-133 device:outputs 1 .
 _:teenage-engineering-ep-133 device:typeA true .
 _:teenage-engineering-ep-133 device:uri "https://teenage.engineering/products/ep-133" .
+
+_:the-division-department-01-IV device:make "The Division Department" .
+_:the-division-department-01-IV device:model "01/IV drum synthesizer" .
+_:the-division-department-01-IV device:inputs 1 .
+_:the-division-department-01-IV device:thrus 1 .
+_:the-division-department-01-IV device:typeB true .
+_:the-division-department-01-IV device:uri "https://thedivisiondepartment.com/pages/01-iv" .
