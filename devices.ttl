@@ -1,12 +1,5 @@
 @prefix device: <http://example.org/vocab/device/> .
 
-_:label device:make "Teenage Engineering" .
-_:label device:model "EP133 K.O. II" .
-_:label device:inputs 1 .
-_:label device:outputs 1 .
-_:label device:typeA true .
-_:label device:uri "https://teenage.engineering/products/ep-133" .
-
 _:alm-pexp-2 device:make "ALM/Busy Circuits" .
 _:alm-pexp-2 device:model "Pexp-2: Pamela’s New Workout Expander" .
 _:alm-pexp-2 device:outputs 1 .
@@ -1028,3 +1021,10 @@ _:xor-electronics-2hp-trs-a-midi-expander device:typeA true .
 _:xor-electronics-2hp-trs-a-midi-expander device:notes "MIDI Expander for the Nerdseq" .
 _:xor-electronics-2hp-trs-a-midi-expander device:details "Second output switchable to thru." .
 _:xor-electronics-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander" .
+
+_:teenage-engineering-ep-133 device:make "Teenage Engineering" .
+_:teenage-engineering-ep-133 device:model "EP-133 K.O. II" .
+_:teenage-engineering-ep-133 device:inputs 1 .
+_:teenage-engineering-ep-133 device:outputs 1 .
+_:teenage-engineering-ep-133 device:typeA true .
+_:teenage-engineering-ep-133 device:uri "https://teenage.engineering/products/ep-133" .
