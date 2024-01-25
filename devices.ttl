@@ -1050,3 +1050,9 @@ _:ableton-push-3 device:inputs 1 .
 _:ableton-push-3 device:outputs 1 .
 _:ableton-push-3 device:typeA true .
 _:ableton-push-3 device:uri "https://ableton.com/push" .
+
+_:maudio-oxygen-pro-mini device:make "M-Audio" .
+_:maudio-oxygen-pro-mini device:model "Oxygen Pro Mini" .
+_:maudio-oxygen-pro-mini device:outputs 1 .
+_:maudio-oxygen-pro-mini device:typeA true .
+_:maudio-oxygen-pro-mini device:uri "https://m-audio.com/oxygen-pro-mini" .
