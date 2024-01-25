@@ -1035,3 +1035,11 @@ _:the-division-department-01-IV device:inputs 1 .
 _:the-division-department-01-IV device:thrus 1 .
 _:the-division-department-01-IV device:typeB true .
 _:the-division-department-01-IV device:uri "https://thedivisiondepartment.com/pages/01-iv" .
+
+_:poly-effects-beebo device:make "Poly Effects" .
+_:poly-effects-beebo device:model "Beebo / Digit" .
+_:poly-effects-beebo device:inputs 1 .
+_:poly-effects-beebo device:outputs 1 .
+_:poly-effects-beebo device:typeA true .
+_:poly-effects-beebo device:notes "Was Type B before Digit serial #475 or before Beebo serial #338" .
+_:poly-effects-beebo device:uri "https://polyeffects.com/polyeffects/p/beebo" .
