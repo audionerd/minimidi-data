@@ -1057,10 +1057,10 @@ _:maudio-oxygen-pro-mini device:outputs 1 .
 _:maudio-oxygen-pro-mini device:typeA true .
 _:maudio-oxygen-pro-mini device:uri "https://m-audio.com/oxygen-pro-mini" .
 
-_:modern-sounds-pluto device:make "Modern Sounds"
-_:modern-sounds-pluto device:model "Pluto"
+_:modern-sounds-pluto device:make "Modern Sounds" .
+_:modern-sounds-pluto device:model "Pluto" .
 _:modern-sounds-pluto device:inputs 1 .
 _:modern-sounds-pluto device:outputs 1 .
 _:modern-sounds-pluto device:typeA true .
-_:modern-sounds-pluto device:details "Early Plutos manufactured before 2023 had a single MIDI jack with a slide switch to choose between IN and OUT." .
+_:modern-sounds-pluto device:details "Early Plutos manufactured before 2023 had a single TRS MIDI jack with a slide switch to choose between IN and OUT." .
 _:modern-sounds-pluto device:uri "https://www.modernsounds.co/pluto" .
