@@ -1064,3 +1064,18 @@ _:modern-sounds-pluto device:outputs 1 .
 _:modern-sounds-pluto device:typeA true .
 _:modern-sounds-pluto device:details "Early Plutos manufactured before 2023 had a single TRS MIDI jack with a slide switch to choose between IN and OUT." .
 _:modern-sounds-pluto device:uri "https://www.modernsounds.co/pluto" .
+
+_:boss-fs-1-wl device:make "Boss" .
+_:boss-fs-1-wl device:model "FS-1-WL" .
+_:boss-fs-1-wl device:outputs 1 .
+_:boss-fs-1-wl device:typeB true .
+_:boss-fs-1-wl device:notes "Wireless foot switch" .
+_:boss-fs-1-wl device:uri "https://www.boss.info/global/products/fs-1-wl/" .
+
+_:boss-gt-1000core device:make "Boss" .
+_:boss-gt-1000core device:model "GT-1000Core" .
+_:boss-gt-1000core device:outputs 1 .
+_:boss-gt-1000core device:inputs 1 .
+_:boss-gt-1000core device:typeB true .
+_:boss-gt-1000core device:notes "Guitar effects processor" .
+_:boss-gt-1000core device:uri "https://www.boss.info/global/products/gt-1000core/" .
