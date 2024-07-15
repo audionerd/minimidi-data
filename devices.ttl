@@ -1064,3 +1064,12 @@ _:modern-sounds-pluto device:outputs 1 .
 _:modern-sounds-pluto device:typeA true .
 _:modern-sounds-pluto device:details "Early Plutos manufactured before 2023 had a single TRS MIDI jack with a slide switch to choose between IN and OUT." .
 _:modern-sounds-pluto device:uri "https://www.modernsounds.co/pluto" .
+
+_:erica-black-sequencer device:make "Erica Synths" .
+_:erica-black-sequencer device:model "Black Sequencer" .
+_:erica-black-sequencer device:inputs 1 .
+_:erica-black-sequencer device:outputs 1 .
+_:erica-black-sequencer device:typeB true .
+_:erica-black-sequencer device:notes "Eurorack 64 step sequencer" .
+_:erica-black-sequencer device:uri "https://ericasynths.lv/shop/eurorack-modules/by-series/black-series/black-sequencer" .
+_:erica-black-sequencer device:eurorack true .
