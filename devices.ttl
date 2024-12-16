@@ -1064,3 +1064,17 @@ _:modern-sounds-pluto device:outputs 1 .
 _:modern-sounds-pluto device:typeA true .
 _:modern-sounds-pluto device:details "Early Plutos manufactured before 2023 had a single TRS MIDI jack with a slide switch to choose between IN and OUT." .
 _:modern-sounds-pluto device:uri "https://www.modernsounds.co/pluto" .
+
+_:cre8audio-east-beast device:make "Cre8audio"
+_:cre8audio-east-beast device:model "East Beast"
+_:cre8audio-east-beast device:inputs 1 .
+_:cre8audio-east-beast device:outputs 1 .
+_:cre8audio-east-beast device:typeA true .
+_:cre8audio-east-beast device:uri "https://www.cre8audio.com/eastbeast" .
+
+_:cre8audio-west-pest device:make "Cre8audio"
+_:cre8audio-west-pest device:model "West Pest"
+_:cre8audio-west-pest device:inputs 1 .
+_:cre8audio-west-pest device:outputs 1 .
+_:cre8audio-west-pest device:typeA true .
+_:cre8audio-west-pest device:uri "https://www.cre8audio.com/westpest" .
