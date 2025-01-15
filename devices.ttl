@@ -1064,3 +1064,14 @@ _:modern-sounds-pluto device:outputs 1 .
 _:modern-sounds-pluto device:typeA true .
 _:modern-sounds-pluto device:details "Early Plutos manufactured before 2023 had a single TRS MIDI jack with a slide switch to choose between IN and OUT." .
 _:modern-sounds-pluto device:uri "https://www.modernsounds.co/pluto" .
+
+# Zoom LiveTrak L-6
+# Link to referenced manual - https://zoomcorp.com/media/documents/E_L6.pdf
+_:zoom-livetrak-l6 device:make "Zoom" .
+_:zoom-livetrak-l6 device:model "LiveTrak L-6" .
+_:zoom-livetrak-l6 device:inputs 1 .
+_:zoom-livetrak-l6 device:outputs 1 .
+_:zoom-livetrak-l6 device:typeA true .
+_:zoom-livetrak-l6 device:notes "10-Track Digital Mixer / Recorder" .
+_:zoom-livetrak-l6 device:uri "https://zoomcorp.com/en/us/digital-mixer-multi-track-recorders/digital-mixer-recorder/livetrak-l6-final/" .
+_:zoom-livetrak-l6 device:eurorack true .
