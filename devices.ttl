@@ -1065,8 +1065,17 @@ _:modern-sounds-pluto device:typeA true .
 _:modern-sounds-pluto device:details "Early Plutos manufactured before 2023 had a single TRS MIDI jack with a slide switch to choose between IN and OUT." .
 _:modern-sounds-pluto device:uri "https://www.modernsounds.co/pluto" .
 
+_:erica-black-sequencer device:make "Erica Synths" .
+_:erica-black-sequencer device:model "Black Sequencer" .
+_:erica-black-sequencer device:inputs 1 .
+_:erica-black-sequencer device:outputs 1 .
+_:erica-black-sequencer device:typeB true .
+_:erica-black-sequencer device:notes "Eurorack 64 step sequencer" .
+_:erica-black-sequencer device:uri "https://ericasynths.lv/shop/eurorack-modules/by-series/black-series/black-sequencer" .
+_:erica-black-sequencer device:eurorack true .
+
 _:mlive-bbeat device:make "M-live" .
-_:mlive-bbeat device:model "B.Beat" .
+_:mlive-bbeat device:model "B.Beat Evo" .
 _:mlive-bbeat device:inputs 0 .
 _:mlive-bbeat device:outputs 1 .
 _:mlive-bbeat device:thrus 0 .
@@ -1074,4 +1083,4 @@ _:mlive-bbeat device:swappable false .
 _:mlive-bbeat device:typeA false .
 _:mlive-bbeat device:typeB true .
 _:mlive-bbeat device:notes "Multitrack player with MIDI and video" .
-_:mlive-bbeat device:uri "https://www.m-live.com/en/b-beat/" .
+_:mlive-bbeat device:uri "https://m-live.com/en/prodotto/b-beat-evo" .
