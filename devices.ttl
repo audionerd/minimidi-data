@@ -1084,3 +1084,17 @@ _:mlive-bbeat device:typeA false .
 _:mlive-bbeat device:typeB true .
 _:mlive-bbeat device:notes "Multitrack player with MIDI and video" .
 _:mlive-bbeat device:uri "https://m-live.com/en/prodotto/b-beat-evo" .
+
+_:cre8audio-east-beast device:make "Cre8audio" .
+_:cre8audio-east-beast device:model "East Beast" .
+_:cre8audio-east-beast device:inputs 1 .
+_:cre8audio-east-beast device:thrus 1 .
+_:cre8audio-east-beast device:typeA true .
+_:cre8audio-east-beast device:uri "https://cre8audio.com/eastbeast" .
+
+_:cre8audio-west-pest device:make "Cre8audio" .
+_:cre8audio-west-pest device:model "West Pest" .
+_:cre8audio-west-pest device:inputs 1 .
+_:cre8audio-west-pest device:thrus 1 .
+_:cre8audio-west-pest device:typeA true .
+_:cre8audio-west-pest device:uri "https://cre8audio.com/westpest" .
