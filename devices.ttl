@@ -1098,3 +1098,11 @@ _:cre8audio-west-pest device:inputs 1 .
 _:cre8audio-west-pest device:thrus 1 .
 _:cre8audio-west-pest device:typeA true .
 _:cre8audio-west-pest device:uri "https://cre8audio.com/westpest" .
+
+_:donner-n-25 device:make "DONNER" .
+_:donner-n-25 device:model "N-25" .
+_:donner-n-25 device:outputs 1 .
+_:donner-n-25 device:typeA false .
+_:donner-n-25 device:typeB true .
+_:donner-n-25 device:uri "https://us.donnermusic.com/products/donner-n-25-25-key-pure-midi-keyboard" .
+_:donner-n-25 device:notes "MIDI Keyboard" .
