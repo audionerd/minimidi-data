@@ -1098,3 +1098,12 @@ _:cre8audio-west-pest device:inputs 1 .
 _:cre8audio-west-pest device:thrus 1 .
 _:cre8audio-west-pest device:typeA true .
 _:cre8audio-west-pest device:uri "https://cre8audio.com/westpest" .
+
+_:suiko-st-60 device:make "Suiko" .
+_:suiko-st-60 device:model "ST-60" .
+_:suiko-st-60 device:inputs 1 .
+_:suiko-st-60 device:outputs 0 .
+_:suiko-st-60 device:thrus 0 .
+_:suiko-st-60 device:typeA true .
+_:suiko-st-60 device:details "Hidden drum sounds are available on channel 10. It can also receive various standard CCs: Vibrato int. CC1, Chorus CC93, etc. (original research)" .
+_:suiko-st-60 device:uri "https://suikohsha.com" .
