@@ -1107,3 +1107,16 @@ _:suiko-st-60 device:thrus 0 .
 _:suiko-st-60 device:typeA true .
 _:suiko-st-60 device:details "Hidden drum sounds are available on channel 10. It can also receive various standard CCs: Vibrato int. CC1, Chorus CC93, etc. (original research)" .
 _:suiko-st-60 device:uri "https://suikohsha.com" .
+
+_:mvave device:make "M-Vave" .
+_:mvave device:model "SMC-PAD" .
+_:mvave device:inputs 0 .
+_:mvave device:outputs 1 .
+_:mvave device:thrus 0 .
+_:mvave device:swappable false .
+_:mvave device:typeA true .
+_:mvave device:typeB false .
+_:mvave device:notes "16 backlit pad controller" .
+_:mvave device:details "Also have 8 knobs, battery and BT" .
+_:mvave device:uri "https://www.cuvave.com/productinfo/1106104.html" .
+_:mvave device:eurorack false .
