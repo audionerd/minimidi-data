@@ -1108,15 +1108,32 @@ _:suiko-st-60 device:typeA true .
 _:suiko-st-60 device:details "Hidden drum sounds are available on channel 10. It can also receive various standard CCs: Vibrato int. CC1, Chorus CC93, etc. (original research)" .
 _:suiko-st-60 device:uri "https://suikohsha.com" .
 
-_:mvave device:make "M-Vave" .
-_:mvave device:model "SMC-PAD" .
-_:mvave device:inputs 0 .
-_:mvave device:outputs 1 .
-_:mvave device:thrus 0 .
-_:mvave device:swappable false .
-_:mvave device:typeA true .
-_:mvave device:typeB false .
-_:mvave device:notes "16 backlit pad controller" .
-_:mvave device:details "Also have 8 knobs, battery and BT" .
-_:mvave device:uri "https://www.cuvave.com/productinfo/1106104.html" .
-_:mvave device:eurorack false .
+# Zoom LiveTrak L-6
+# Link to referenced manual - https://zoomcorp.com/media/documents/E_L6.pdf
+_:zoom-livetrak-l6 device:make "Zoom" .
+_:zoom-livetrak-l6 device:model "LiveTrak L-6" .
+_:zoom-livetrak-l6 device:inputs 1 .
+_:zoom-livetrak-l6 device:outputs 1 .
+_:zoom-livetrak-l6 device:typeA true .
+_:zoom-livetrak-l6 device:notes "10-Track Digital Mixer / Recorder" .
+_:zoom-livetrak-l6 device:uri "https://zoomcorp.com/en/us/digital-mixer-multi-track-recorders/digital-mixer-recorder/livetrak-l6-final" .
+_:zoom-livetrak-l6 device:eurorack true .
+
+_:donner-n-25 device:make "DONNER" .
+_:donner-n-25 device:model "N-25" .
+_:donner-n-25 device:outputs 1 .
+_:donner-n-25 device:typeB true .
+_:donner-n-25 device:uri "https://us.donnermusic.com/products/donner-n-25-25-key-pure-midi-keyboard" .
+_:donner-n-25 device:notes "25-key MIDI Keyboard" .
+
+_:mvave-smc-pad device:make "M-Vave" .
+_:mvave-smc-pad device:model "SMC-PAD" .
+_:mvave-smc-pad device:inputs 0 .
+_:mvave-smc-pad device:outputs 1 .
+_:mvave-smc-pad device:thrus 0 .
+_:mvave-smc-pad device:swappable false .
+_:mvave-smc-pad device:typeA true .
+_:mvave-smc-pad device:typeB false .
+_:mvave-smc-pad device:notes "16-pad controller" .
+_:mvave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
+_:mvave-smc-pad device:eurorack false .
