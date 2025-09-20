@@ -1118,3 +1118,10 @@ _:zoom-livetrak-l6 device:typeA true .
 _:zoom-livetrak-l6 device:notes "10-Track Digital Mixer / Recorder" .
 _:zoom-livetrak-l6 device:uri "https://zoomcorp.com/en/us/digital-mixer-multi-track-recorders/digital-mixer-recorder/livetrak-l6-final" .
 _:zoom-livetrak-l6 device:eurorack true .
+
+_:donner-n-25 device:make "DONNER" .
+_:donner-n-25 device:model "N-25" .
+_:donner-n-25 device:outputs 1 .
+_:donner-n-25 device:typeB true .
+_:donner-n-25 device:uri "https://us.donnermusic.com/products/donner-n-25-25-key-pure-midi-keyboard" .
+_:donner-n-25 device:notes "25-key MIDI Keyboard" .
