@@ -1125,3 +1125,15 @@ _:donner-n-25 device:outputs 1 .
 _:donner-n-25 device:typeB true .
 _:donner-n-25 device:uri "https://us.donnermusic.com/products/donner-n-25-25-key-pure-midi-keyboard" .
 _:donner-n-25 device:notes "25-key MIDI Keyboard" .
+
+_:mvave-smc-pad device:make "M-Vave" .
+_:mvave-smc-pad device:model "SMC-PAD" .
+_:mvave-smc-pad device:inputs 0 .
+_:mvave-smc-pad device:outputs 1 .
+_:mvave-smc-pad device:thrus 0 .
+_:mvave-smc-pad device:swappable false .
+_:mvave-smc-pad device:typeA true .
+_:mvave-smc-pad device:typeB false .
+_:mvave-smc-pad device:notes "16-pad controller" .
+_:mvave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
+_:mvave-smc-pad device:eurorack false .
