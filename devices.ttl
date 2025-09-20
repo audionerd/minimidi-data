@@ -1099,10 +1099,29 @@ _:cre8audio-west-pest device:thrus 1 .
 _:cre8audio-west-pest device:typeA true .
 _:cre8audio-west-pest device:uri "https://cre8audio.com/westpest" .
 
+_:suiko-st-60 device:make "Suiko" .
+_:suiko-st-60 device:model "ST-60" .
+_:suiko-st-60 device:inputs 1 .
+_:suiko-st-60 device:outputs 0 .
+_:suiko-st-60 device:thrus 0 .
+_:suiko-st-60 device:typeA true .
+_:suiko-st-60 device:details "Hidden drum sounds are available on channel 10. It can also receive various standard CCs: Vibrato int. CC1, Chorus CC93, etc. (original research)" .
+_:suiko-st-60 device:uri "https://suikohsha.com" .
+
+# Zoom LiveTrak L-6
+# Link to referenced manual - https://zoomcorp.com/media/documents/E_L6.pdf
+_:zoom-livetrak-l6 device:make "Zoom" .
+_:zoom-livetrak-l6 device:model "LiveTrak L-6" .
+_:zoom-livetrak-l6 device:inputs 1 .
+_:zoom-livetrak-l6 device:outputs 1 .
+_:zoom-livetrak-l6 device:typeA true .
+_:zoom-livetrak-l6 device:notes "10-Track Digital Mixer / Recorder" .
+_:zoom-livetrak-l6 device:uri "https://zoomcorp.com/en/us/digital-mixer-multi-track-recorders/digital-mixer-recorder/livetrak-l6-final" .
+_:zoom-livetrak-l6 device:eurorack true .
+
 _:donner-n-25 device:make "DONNER" .
 _:donner-n-25 device:model "N-25" .
 _:donner-n-25 device:outputs 1 .
-_:donner-n-25 device:typeA false .
 _:donner-n-25 device:typeB true .
 _:donner-n-25 device:uri "https://us.donnermusic.com/products/donner-n-25-25-key-pure-midi-keyboard" .
-_:donner-n-25 device:notes "MIDI Keyboard" .
+_:donner-n-25 device:notes "25-key MIDI Keyboard" .
