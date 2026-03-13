@@ -1145,3 +1145,11 @@ _:reliq-reliq device:outputs 3 .
 _:reliq-reliq device:typeA true .
 _:reliq-reliq device:details "MIDI IN autodetects type A or B; MIDI OUTs are only type A" .
 _:reliq-reliq device:uri "https://reliq-instruments.com/pages/reliq" .
+
+_:poly-effects-hector device:make "Poly Effects" .
+_:poly-effects-hector device:model "Hector" .
+_:poly-effects-hector device:inputs 1 .
+_:poly-effects-hector device:outputs 1 .
+_:poly-effects-hector device:typeA true .
+_:poly-effects-hector device:notes "Virtual modular for Eurorack" .
+_:poly-effects-hector device:uri "https://polyeffects.com/polyeffects/p/hector" .
