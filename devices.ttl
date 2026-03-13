@@ -1137,3 +1137,11 @@ _:mvave-smc-pad device:typeB false .
 _:mvave-smc-pad device:notes "16-pad controller" .
 _:mvave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
 _:mvave-smc-pad device:eurorack false .
+
+_:reliq-reliq device:make "Reliq Instruments" .
+_:reliq-reliq device:model "Reliq" .
+_:reliq-reliq device:inputs 1 .
+_:reliq-reliq device:outputs 3 .
+_:reliq-reliq device:typeA true .
+_:reliq-reliq device:details "MIDI IN autodetects type A or B; MIDI OUTs are only type A" .
+_:reliq-reliq device:uri "https://reliq-instruments.com/pages/reliq" .
