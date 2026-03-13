@@ -1153,3 +1153,10 @@ _:poly-effects-hector device:outputs 1 .
 _:poly-effects-hector device:typeA true .
 _:poly-effects-hector device:notes "Virtual modular for Eurorack" .
 _:poly-effects-hector device:uri "https://polyeffects.com/polyeffects/p/hector" .
+
+_:pittsburgh-modular-taiga device:make "Pittsburgh Modular" .
+_:pittsburgh-modular-taiga device:model "Taiga" .
+_:pittsburgh-modular-taiga device:inputs 1 .
+_:pittsburgh-modular-taiga device:typeA true .
+_:pittsburgh-modular-taiga device:notes "Three oscillator dynamic synthesizer" .
+_:pittsburgh-modular-taiga device:uri "https://pittsburghmodular.com/taiga" .
