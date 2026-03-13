@@ -1160,3 +1160,11 @@ _:pittsburgh-modular-taiga device:inputs 1 .
 _:pittsburgh-modular-taiga device:typeA true .
 _:pittsburgh-modular-taiga device:notes "Three oscillator dynamic synthesizer" .
 _:pittsburgh-modular-taiga device:uri "https://pittsburghmodular.com/taiga" .
+
+_:endorphin-es-ground-control device:make "Endorphin.es" .
+_:endorphin-es-ground-control device:model "Ground Control" .
+_:endorphin-es-ground-control device:inputs 1 .
+_:endorphin-es-ground-control device:outputs 1 .
+_:endorphin-es-ground-control device:typeB true .
+_:endorphin-es-ground-control device:notes "Performance Eurorack sequencer" .
+_:endorphin-es-ground-control device:uri "https://www.endorphin.es/modules/p/ground-control" .
