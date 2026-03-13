@@ -1126,17 +1126,17 @@ _:donner-n-25 device:typeB true .
 _:donner-n-25 device:uri "https://us.donnermusic.com/products/donner-n-25-25-key-pure-midi-keyboard" .
 _:donner-n-25 device:notes "25-key MIDI Keyboard" .
 
-_:mvave-smc-pad device:make "M-Vave" .
-_:mvave-smc-pad device:model "SMC-PAD" .
-_:mvave-smc-pad device:inputs 0 .
-_:mvave-smc-pad device:outputs 1 .
-_:mvave-smc-pad device:thrus 0 .
-_:mvave-smc-pad device:swappable false .
-_:mvave-smc-pad device:typeA true .
-_:mvave-smc-pad device:typeB false .
-_:mvave-smc-pad device:notes "16-pad controller" .
-_:mvave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
-_:mvave-smc-pad device:eurorack false .
+_:m-vave-smc-pad device:make "M-Vave" .
+_:m-vave-smc-pad device:model "SMC-PAD" .
+_:m-vave-smc-pad device:inputs 0 .
+_:m-vave-smc-pad device:outputs 1 .
+_:m-vave-smc-pad device:thrus 0 .
+_:m-vave-smc-pad device:swappable false .
+_:m-vave-smc-pad device:typeA true .
+_:m-vave-smc-pad device:typeB false .
+_:m-vave-smc-pad device:notes "16-pad controller" .
+_:m-vave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
+_:m-vave-smc-pad device:eurorack false .
 
 _:reliq-reliq device:make "Reliq Instruments" .
 _:reliq-reliq device:model "Reliq" .
@@ -1176,3 +1176,15 @@ _:oxi-instruments-oxi-coral device:typeA true .
 _:oxi-instruments-oxi-coral device:typeB true .
 _:oxi-instruments-oxi-coral device:notes "Polyphonic Eurorack oscillator" .
 _:oxi-instruments-oxi-coral device:uri "https://oxiinstruments.com/oxi-coral" .
+
+_:m-vave-smk-37-pro device:make "M-Vave" .
+_:m-vave-smk-37-pro device:model "SMK-37 PRO" .
+_:m-vave-smk-37-pro device:inputs 0 .
+_:m-vave-smk-37-pro device:outputs 1 .
+_:m-vave-smk-37-pro device:thrus 0 .
+_:m-vave-smk-37-pro device:swappable false .
+_:m-vave-smk-37-pro device:typeA true .
+_:m-vave-smk-37-pro device:typeB false .
+_:m-vave-smk-37-pro device:notes "37-key midi controller with 16 pads, 8 encoders, 4 faders and 6-OP FM Engine" .
+_:m-vave-smk-37-pro device:uri "https://www.cuvave.com/productinfo/1431195.html" .
+_:m-vave-smk-37-pro device:eurorack false .
