@@ -1168,3 +1168,11 @@ _:endorphin-es-ground-control device:outputs 1 .
 _:endorphin-es-ground-control device:typeB true .
 _:endorphin-es-ground-control device:notes "Performance Eurorack sequencer" .
 _:endorphin-es-ground-control device:uri "https://www.endorphin.es/modules/p/ground-control" .
+
+_:oxi-instruments-oxi-coral device:make "OXI Instruments" .
+_:oxi-instruments-oxi-coral device:model "OXI Coral" .
+_:oxi-instruments-oxi-coral device:inputs 1 .
+_:oxi-instruments-oxi-coral device:typeA true .
+_:oxi-instruments-oxi-coral device:typeB true .
+_:oxi-instruments-oxi-coral device:notes "Polyphonic Eurorack oscillator" .
+_:oxi-instruments-oxi-coral device:uri "https://oxiinstruments.com/oxi-coral" .
