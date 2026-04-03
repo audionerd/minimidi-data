@@ -1168,3 +1168,25 @@ _:oxi-instruments-oxi-coral device:typeA true .
 _:oxi-instruments-oxi-coral device:typeB true .
 _:oxi-instruments-oxi-coral device:notes "Polyphonic Eurorack oscillator" .
 _:oxi-instruments-oxi-coral device:uri "https://oxiinstruments.com/oxi-coral" .
+
+-:light-reft-monolit device:make "LightReft" .
+-:light-reft-monolit device:model "Monolit" .
+-:light-reft-monolit device:oututs 1 .
+-:light-reft-monolit device:typeA true .
+-:light-reft-monolit device:notes "Performance focused MIDI controller" .
+-:light-reft-monolit device:uri "https://www.lightreft.jp/monolit" .
+
+-:light-reft-concrete device:make "LightReft" .
+-:light-reft-concrete device:model "Concrete" .
+-:light-reft-concrete device:inputs 1 .
+-:light-reft-concrete device:typeA true .
+-:light-reft-concrete device:notes "Stereo sound processor" .
+-:light-reft-concrete device:uri "https://www.lightreft.jp/concrete" .
+
+_:teenage-engineering-op-1-field device:make "Teenage Engineering" .
+_:teenage-engineering-op-1-field device:model "OP-1 Field" .
+_:teenage-engineering-op-1-field device:inputs 1 .
+_:teenage-engineering-op-1-field device:outputs 1 .
+_:teenage-engineering-op-1-field device:typeA true .
+_:teenage-engineering-op-1-field device:notes "See the guide: https://teenage.engineering/guides/op-1" .
+_:teenage-engineering-op-1-field device:uri "https://teenage.engineering/products/op-1" .
