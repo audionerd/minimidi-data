@@ -1126,40 +1126,48 @@ _:donner-n-25 device:typeB true .
 _:donner-n-25 device:uri "https://us.donnermusic.com/products/donner-n-25-25-key-pure-midi-keyboard" .
 _:donner-n-25 device:notes "25-key MIDI Keyboard" .
 
-_:mvave-smc-pad device:make "M-Vave" .
-_:mvave-smc-pad device:model "SMC-PAD" .
-_:mvave-smc-pad device:inputs 0 .
-_:mvave-smc-pad device:outputs 1 .
-_:mvave-smc-pad device:thrus 0 .
-_:mvave-smc-pad device:swappable false .
-_:mvave-smc-pad device:typeA true .
-_:mvave-smc-pad device:typeB false .
-_:mvave-smc-pad device:notes "16-pad controller" .
-_:mvave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
-_:mvave-smc-pad device:eurorack false .
+_:m-vave-smc-pad device:make "M-Vave" .
+_:m-vave-smc-pad device:model "SMC-PAD" .
+_:m-vave-smc-pad device:inputs 0 .
+_:m-vave-smc-pad device:outputs 1 .
+_:m-vave-smc-pad device:thrus 0 .
+_:m-vave-smc-pad device:swappable false .
+_:m-vave-smc-pad device:typeA true .
+_:m-vave-smc-pad device:typeB false .
+_:m-vave-smc-pad device:notes "16-pad controller" .
+_:m-vave-smc-pad device:uri "https://www.cuvave.com/productinfo/1106104.html" .
+_:m-vave-smc-pad device:eurorack false .
+
+_:reliq-reliq device:make "Reliq Instruments" .
+_:reliq-reliq device:model "Reliq" .
+_:reliq-reliq device:inputs 1 .
+_:reliq-reliq device:outputs 3 .
+_:reliq-reliq device:typeA true .
+_:reliq-reliq device:details "MIDI IN autodetects type A or B; MIDI OUTs are only type A" .
+_:reliq-reliq device:uri "https://reliq-instruments.com/pages/reliq" .
 
 _:poly-effects-hector device:make "Poly Effects" .
 _:poly-effects-hector device:model "Hector" .
 _:poly-effects-hector device:inputs 1 .
 _:poly-effects-hector device:outputs 1 .
 _:poly-effects-hector device:typeA true .
-_:poly-effects-hector device:notes "Virtual modular for Eurorack"
+_:poly-effects-hector device:notes "Virtual modular for Eurorack" .
 _:poly-effects-hector device:uri "https://polyeffects.com/polyeffects/p/hector" .
 
 _:pittsburgh-modular-taiga device:make "Pittsburgh Modular" .
 _:pittsburgh-modular-taiga device:model "Taiga" .
 _:pittsburgh-modular-taiga device:inputs 1 .
 _:pittsburgh-modular-taiga device:typeA true .
-_:pittsburgh-modular-taiga device:notes "Three oscillator dynamic synthesizer"
+_:pittsburgh-modular-taiga device:notes "Three oscillator dynamic synthesizer" .
 _:pittsburgh-modular-taiga device:uri "https://pittsburghmodular.com/taiga" .
 
--:endorphin-es-ground-control device:make "Endorphin.es" .
--:endorphin-es-ground-control device:model "Ground Control" .
--:endorphin-es-ground-control device:inputs 1 .
--:endorphin-es-ground-control device:outputs 1 .
--:endorphin-es-ground-control device:typeB true .
--:endorphin-es-ground-control device:notes "Performance Eurorack sequencer"
--:endorphin-es-ground-control device:uri "https://www.endorphin.es/modules/p/ground-control" .
+_:endorphin-es-ground-control device:make "Endorphin.es" .
+_:endorphin-es-ground-control device:model "Ground Control" .
+_:endorphin-es-ground-control device:inputs 1 .
+_:endorphin-es-ground-control device:outputs 1 .
+_:endorphin-es-ground-control device:typeB true .
+_:endorphin-es-ground-control device:notes "Performance Eurorack sequencer" .
+_:endorphin-es-ground-control device:uri "https://www.endorphin.es/modules/p/ground-control" .
 
 _:oxi-instruments-oxi-coral device:make "OXI Instruments" .
 _:oxi-instruments-oxi-coral device:model "OXI Coral" .
@@ -1169,24 +1177,14 @@ _:oxi-instruments-oxi-coral device:typeB true .
 _:oxi-instruments-oxi-coral device:notes "Polyphonic Eurorack oscillator" .
 _:oxi-instruments-oxi-coral device:uri "https://oxiinstruments.com/oxi-coral" .
 
--:light-reft-monolit device:make "LightReft" .
--:light-reft-monolit device:model "Monolit" .
--:light-reft-monolit device:oututs 1 .
--:light-reft-monolit device:typeA true .
--:light-reft-monolit device:notes "Performance focused MIDI controller" .
--:light-reft-monolit device:uri "https://www.lightreft.jp/monolit" .
-
--:light-reft-concrete device:make "LightReft" .
--:light-reft-concrete device:model "Concrete" .
--:light-reft-concrete device:inputs 1 .
--:light-reft-concrete device:typeA true .
--:light-reft-concrete device:notes "Stereo sound processor" .
--:light-reft-concrete device:uri "https://www.lightreft.jp/concrete" .
-
-_:teenage-engineering-op-1-field device:make "Teenage Engineering" .
-_:teenage-engineering-op-1-field device:model "OP-1 Field" .
-_:teenage-engineering-op-1-field device:inputs 1 .
-_:teenage-engineering-op-1-field device:outputs 1 .
-_:teenage-engineering-op-1-field device:typeA true .
-_:teenage-engineering-op-1-field device:notes "See the guide: https://teenage.engineering/guides/op-1" .
-_:teenage-engineering-op-1-field device:uri "https://teenage.engineering/products/op-1" .
+_:m-vave-smk-37-pro device:make "M-Vave" .
+_:m-vave-smk-37-pro device:model "SMK-37 PRO" .
+_:m-vave-smk-37-pro device:inputs 0 .
+_:m-vave-smk-37-pro device:outputs 1 .
+_:m-vave-smk-37-pro device:thrus 0 .
+_:m-vave-smk-37-pro device:swappable false .
+_:m-vave-smk-37-pro device:typeA true .
+_:m-vave-smk-37-pro device:typeB false .
+_:m-vave-smk-37-pro device:notes "37-key midi controller with 16 pads, 8 encoders, 4 faders and 6-OP FM Engine" .
+_:m-vave-smk-37-pro device:uri "https://www.cuvave.com/productinfo/1431195.html" .
+_:m-vave-smk-37-pro device:eurorack false .
