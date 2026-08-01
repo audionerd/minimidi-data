@@ -1022,6 +1022,14 @@ _:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:notes "MIDI Expander fo
 _:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:details "Second output switchable to thru." .
 _:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander" .
 
+_:xor-electronics-nerdseq-multi-io-expander device:make "XOR Electronics" .
+_:xor-electronics-nerdseq-multi-io-expander device:model "Nerdseq - Multi-IO Expander" .
+_:xor-electronics-nerdseq-multi-io-expander device:inputs 1 .
+_:xor-electronics-nerdseq-multi-io-expander device:outputs 1 .
+_:xor-electronics-nerdseq-multi-io-expander device:typeA true .
+_:xor-electronics-nerdseq-multi-io-expander device:notes "Multi-IO Expander for the Nerdseq" .
+_:xor-electronics-nerdseq-multi-io-expander device:uri "https://xor-electronics.com/product/nerdseq-multi-io-expander-black" .
+
 _:teenage-engineering-ep-133 device:make "Teenage Engineering" .
 _:teenage-engineering-ep-133 device:model "EP-133 K.O. II" .
 _:teenage-engineering-ep-133 device:inputs 1 .
