@@ -1013,14 +1013,22 @@ _:tubbutec-trsbridge device:details "Inputs automatically accept A or B, outputs
 _:tubbutec-trsbridge device:uri "https://tubbutec.de/trs-bridge" .
 _:tubbutec-trsbridge device:eurorack true .
 
-_:xor-electronics-2hp-trs-a-midi-expander device:make "XOR Electronics" .
-_:xor-electronics-2hp-trs-a-midi-expander device:model "2HP TRS-A Midi Expander" .
-_:xor-electronics-2hp-trs-a-midi-expander device:inputs 1 .
-_:xor-electronics-2hp-trs-a-midi-expander device:outputs 2 .
-_:xor-electronics-2hp-trs-a-midi-expander device:typeA true .
-_:xor-electronics-2hp-trs-a-midi-expander device:notes "MIDI Expander for the Nerdseq" .
-_:xor-electronics-2hp-trs-a-midi-expander device:details "Second output switchable to thru." .
-_:xor-electronics-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:make "XOR Electronics" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:model "Nerdseq - 2HP TRS-A Midi Expander" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:inputs 1 .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:outputs 2 .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:typeA true .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:notes "MIDI Expander for the Nerdseq" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:details "Second output switchable to thru." .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander" .
+
+_:xor-electronics-nerdseq-multi-io-expander device:make "XOR Electronics" .
+_:xor-electronics-nerdseq-multi-io-expander device:model "Nerdseq - Multi-IO Expander" .
+_:xor-electronics-nerdseq-multi-io-expander device:inputs 1 .
+_:xor-electronics-nerdseq-multi-io-expander device:outputs 1 .
+_:xor-electronics-nerdseq-multi-io-expander device:typeA true .
+_:xor-electronics-nerdseq-multi-io-expander device:notes "Multi-IO Expander for the Nerdseq" .
+_:xor-electronics-nerdseq-multi-io-expander device:uri "https://xor-electronics.com/product/nerdseq-multi-io-expander-black" .
 
 _:teenage-engineering-ep-133 device:make "Teenage Engineering" .
 _:teenage-engineering-ep-133 device:model "EP-133 K.O. II" .
@@ -1117,7 +1125,6 @@ _:zoom-livetrak-l6 device:outputs 1 .
 _:zoom-livetrak-l6 device:typeA true .
 _:zoom-livetrak-l6 device:notes "10-Track Digital Mixer / Recorder" .
 _:zoom-livetrak-l6 device:uri "https://zoomcorp.com/en/us/digital-mixer-multi-track-recorders/digital-mixer-recorder/livetrak-l6-final" .
-_:zoom-livetrak-l6 device:eurorack true .
 
 _:donner-n-25 device:make "DONNER" .
 _:donner-n-25 device:model "N-25" .
