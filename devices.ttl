@@ -1013,14 +1013,14 @@ _:tubbutec-trsbridge device:details "Inputs automatically accept A or B, outputs
 _:tubbutec-trsbridge device:uri "https://tubbutec.de/trs-bridge" .
 _:tubbutec-trsbridge device:eurorack true .
 
-_:xor-electronics-2hp-trs-a-midi-expander device:make "XOR Electronics" .
-_:xor-electronics-2hp-trs-a-midi-expander device:model "2HP TRS-A Midi Expander" .
-_:xor-electronics-2hp-trs-a-midi-expander device:inputs 1 .
-_:xor-electronics-2hp-trs-a-midi-expander device:outputs 2 .
-_:xor-electronics-2hp-trs-a-midi-expander device:typeA true .
-_:xor-electronics-2hp-trs-a-midi-expander device:notes "MIDI Expander for the Nerdseq" .
-_:xor-electronics-2hp-trs-a-midi-expander device:details "Second output switchable to thru." .
-_:xor-electronics-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:make "XOR Electronics" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:model "Nerdseq - 2HP TRS-A Midi Expander" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:inputs 1 .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:outputs 2 .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:typeA true .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:notes "MIDI Expander for the Nerdseq" .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:details "Second output switchable to thru." .
+_:xor-electronics-nerdseq-2hp-trs-a-midi-expander device:uri "https://xor-electronics.com/product/nerdseq-2hp-trs-a-midi-expander" .
 
 _:teenage-engineering-ep-133 device:make "Teenage Engineering" .
 _:teenage-engineering-ep-133 device:model "EP-133 K.O. II" .
