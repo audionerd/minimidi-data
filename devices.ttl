@@ -1188,3 +1188,10 @@ _:m-vave-smk-37-pro device:typeB false .
 _:m-vave-smk-37-pro device:notes "37-key midi controller with 16 pads, 8 encoders, 4 faders and 6-OP FM Engine" .
 _:m-vave-smk-37-pro device:uri "https://www.cuvave.com/productinfo/1431195.html" .
 _:m-vave-smk-37-pro device:eurorack false .
+
+_:light-reft-monolit device:make "Light Reft" .
+_:light-reft-monolit device:model "MONOLIT" .
+_:light-reft-monolit device:outputs 1 .
+_:light-reft-monolit device:typeA true .
+_:light-reft-monolit device:notes "Performance focused MIDI controller for live composition" .
+_:light-reft-monolit device:uri "https://www.lightreft.jp/monolit" .
