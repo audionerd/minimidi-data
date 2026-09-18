@@ -287,7 +287,9 @@ _:1010music-lemondrop device:inputs 1 .
 _:1010music-lemondrop device:outputs 1 .
 _:1010music-lemondrop device:typeA true .
 _:1010music-lemondrop device:typeB true .
-_:1010music-lemondrop device:details "MIDI IN autodetects type A or B; MIDI OUT is only type B (OUT is only MIDI THRU as of v1.1.2)" .
+_:1010music-lemondrop device:swappable true .
+_:1010music-lemondrop device:notes "Granular synthesizer" .
+_:1010music-lemondrop device:details "MIDI IN autodetects type A or B; MIDI OUT is configurable as type A or B as of v1.2.28 (OUT is only MIDI THRU)" .
 _:1010music-lemondrop device:uri "https://1010music.com/product/lemondrop" .
 
 # ADDAC System ADDAC221 (I/O; Polarity Korg)
@@ -1176,6 +1178,14 @@ _:oxi-instruments-oxi-coral device:typeA true .
 _:oxi-instruments-oxi-coral device:typeB true .
 _:oxi-instruments-oxi-coral device:notes "Polyphonic Eurorack oscillator" .
 _:oxi-instruments-oxi-coral device:uri "https://oxiinstruments.com/oxi-coral" .
+
+_:tasty-chips-integral device:make "Tasty Chips" .
+_:tasty-chips-integral device:model "Integral" .
+_:tasty-chips-integral device:inputs 1 .
+_:tasty-chips-integral device:typeA true .
+_:tasty-chips-integral device:notes "Dual convolution reverb" .
+_:tasty-chips-integral device:details "2025 and newer models have a switch to turn the Expression jack into a type A MIDI jack" .
+_:tasty-chips-integral device:uri "https://www.tastychips.nl/product/integral/" .
 
 _:m-vave-smk-37-pro device:make "M-Vave" .
 _:m-vave-smk-37-pro device:model "SMK-37 PRO" .
