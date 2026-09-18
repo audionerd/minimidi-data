@@ -1195,3 +1195,10 @@ _:light-reft-monolit device:outputs 1 .
 _:light-reft-monolit device:typeA true .
 _:light-reft-monolit device:notes "Performance focused MIDI controller for live composition" .
 _:light-reft-monolit device:uri "https://www.lightreft.jp/monolit" .
+
+_:light-reft-concrete device:make "Light Reft" .
+_:light-reft-concrete device:model "CONCRETE" .
+_:light-reft-concrete device:inputs 1 .
+_:light-reft-concrete device:typeA true .
+_:light-reft-concrete device:notes "Compact stereo sound processor" .
+_:light-reft-concrete device:uri "https://www.lightreft.jp/concrete" .
